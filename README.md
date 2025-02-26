@@ -63,3 +63,14 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 - **Certification Google Analytics** .
 - **Formation en Data Analyst Fullstack** :
+
+
+## 🤝 **Contact**
+
+Je suis toujours à la recherche de nouvelles opportunités pour appliquer mes compétences en analyse de données. N'hésitez pas à me contacter pour discuter de projets ou de collaborations potentielles.
+
+- **Email** : [sebastien.caestecker@example.com](mailto:sebastien.caestecker@example.com)
+- **LinkedIn** : [Sébastien Caestecker](https://www.linkedin.com/in/sebastiencaestecker)
+
+---
+
