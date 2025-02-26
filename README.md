@@ -43,18 +43,18 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ### **Surveillance du COVID-19**
 - **Objectif** : Développer un pipeline Airflow pour surveiller l'évolution de la pandémie de COVID-19.
-- **Résultats** : Automatisation de l'acquisition et du traitement des données pour fournir des mises à jour régulières aux décideurs.
+- **Résultats** : Automatisation de l'acquisition et du traitement des données.
 
 ### **Projet Immobilier**
 - **Objectif** : Analyser les loyers à Paris en tenant compte des infrastructures, de la population, des revenus fiscaux, et des faits de crime.
-- **Résultats** : Fourniture d'un modèle prédictif pour estimer les loyers et aider à la prise de décision.
+- **Résultats** :Un modèle prédictif pour estimer les loyers et aider à la prise de décision.
 
 ### **Projet SQL Business Case : WideWorldImporter**
 - **Objectif** : Appliquer les concepts DDL, DML, et DQL pour gérer les données d'une entreprise fictive d'import-export.
-- **Résultats** : Création de requêtes complexes et de procédures stockées pour automatiser les opérations de gestion des données.
+- **Résultats** : Création de requêtes et de procédures stockées.
 
 ### **SQL Murder Mystery**
-- **Objectif** : Résoudre un mystère de meurtre en utilisant des compétences SQL pour analyser les données d'une scène de crime.
+- **Objectif** : Résoudre un mystère de meurtre en utilisant SQL.
 - **Résultats** : Utilisation de requêtes SQL pour identifier le coupable et reconstituer les événements.
 
 ---
@@ -67,8 +67,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 🤝 **Contact**
 
-Je suis toujours à la recherche de nouvelles opportunités pour appliquer mes compétences en analyse de données. N'hésitez pas à me contacter pour discuter de projets ou de collaborations potentielles.
-
+Je suis toujours à la recherche de nouvelles opportunités pour appliquer mes compétences en analyse de données. 
 - **Email** : [sebastien.caestecker@gmail.com](mailto:sebastien.caestecker@gmail.com)
 - **LinkedIn** : [Sébastien Caestecker](https://www.linkedin.com/in/sebastien-caestecker-753811139/)
 
