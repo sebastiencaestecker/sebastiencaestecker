@@ -86,18 +86,31 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 - **AWS S3** pour le stockage temporaire.
 - **WeatherBit API** pour l'acquisition des données météo.
 
+  
 
-### **Pipeline ETL pour Citymapper**
-- **Objectif** : Automatiser l'acquisition et le traitement des données de location de vélos et météorologiques à Paris.
-- **Résultats** : Mise en place d'un pipeline ETL avec Apache Airflow pour alimenter une base de données Postgres.
+### [Projet Immobilier Analyse des loyers pour la ville de Jedha](https://github.com/sebastiencaestecker/Projet_immo)
 
-### **Surveillance du COVID-19**
-- **Objectif** : Développer un pipeline Airflow pour surveiller l'évolution de la pandémie de COVID-19.
-- **Résultats** : Automatisation de l'acquisition et du traitement des données.
+#### Contexte
 
-### **Projet Immobilier**
-- **Objectif** : Analyser les loyers à Paris en tenant compte des infrastructures, de la population, des revenus fiscaux, et des faits de crime.
-- **Résultats** :Un modèle prédictif pour estimer les loyers et aider à la prise de décision.
+- La ville de Jedha a sollicité la société A.S.O pour analyser les loyers des appartements acquis pour ses fonctionnaires, afin d'identifier les variables influençant le prix des loyers en France.
+
+#### Objectif
+
+ - Déterminer les facteurs clés influençant les loyers en France à partir de diverses données (infrastructures, démographiques, revenus fiscaux, etc.) et créer un modèle de régression pour prédire les loyers.
+
+#### Résultat
+
+- Nettoyage et fusion des datasets.
+- Analyse exploratoire des données (EDA).
+- Modèle de régression linéaire pour prédire les loyers.
+- Visualisations interactives des loyers par zone.
+
+#### Outils
+- **Power BI** : Visualisations et tableaux de bord.
+- **Power Query** : Nettoyage et transformation des données.
+- **Python** : Analyse exploratoire et traitement des données.
+- **SQL** : Manipulation des données.
+
 
 ### **Projet SQL Business Case : WideWorldImporter**
 - **Objectif** : Appliquer les concepts DDL, DML, et DQL pour gérer les données d'une entreprise fictive d'import-export.
