@@ -31,7 +31,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
   - **Bricolage** : Créativité et résolution de problèmes pratiques.
 
 
-## 📊 **Projets Réalisés**
+## 📊 [**Quelques-uns de mes projets Réalisés**](https://github.com/sebastiencaestecker?tab=repositories)
 
 ### 📊 [Tableau de bord pour Coffee Shop](https://github.com/sebastiencaestecker/Tableau-bord-coffee-shop)
 
