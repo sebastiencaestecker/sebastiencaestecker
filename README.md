@@ -107,9 +107,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 #### Outils
 - **Power BI** : Visualisations et tableaux de bord.
-- **Power Query** : Nettoyage et transformation des données.
-- **Python** : Analyse exploratoire et traitement des données.
-- **SQL** : Manipulation des données.
+- **Python** : Nettoyage et transformation et  Analyse exploratoire et traitement des données.
 
 
 ### **Projet SQL Business Case : WideWorldImporter**
