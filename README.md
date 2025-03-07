@@ -62,7 +62,6 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 #### Outils  
 - **Python** pour l'analyse exploratoire et la modélisation.
-- **Pandas & NumPy** pour la manipulation des données.
 - **Matplotlib & Seaborn** pour les visualisations.
 - **Scikit-Learn** pour la création du modèle prédictif.
 
@@ -108,6 +107,8 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 #### Outils
 - **Power BI** : Visualisations et tableaux de bord.
 - **Python** : Nettoyage et transformation et  Analyse exploratoire et traitement des données.
+- **Matplotlib & Seaborn** pour les visualisations.
+- **Scikit-Learn** pour la création du modèle prédictif.
 
 
 ### **Projet SQL Business Case : WideWorldImporter**
