@@ -14,7 +14,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
   - **Tableau, Power BI, Metabase** : Création de visualisations et de tableaux de bord interactifs.
 
 - **Outils de Développement et d'Orchestration** :
-  - **Docker** : Containerisation des applications pour un déploiement cohérent.
+  - **Docker** : Containerisation des application.
   - **Airflow, DBT, Dataiku** : Automatisation des workflows de données et gestion des pipelines ETL.
 
 - **Plateformes Cloud et Big Data** :
