@@ -36,35 +36,55 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 ### 📊 [Tableau de bord pour Coffee Shop](https://github.com/sebastiencaestecker/Tableau-bord-coffee-shop)
 
   #### Contexte  
-  Ce projet vise à fournir une analyse des performances commerciales d'un Coffee Shop, avec un focus sur les ventes, la fréquentation des clients et les produits populaires.
+  - Ce projet vise à fournir une analyse des performances commerciales d'un Coffee Shop, avec un focus sur les ventes, la fréquentation des clients et les produits populaires.
   
   #### Objectif  
-  Créer un tableau de bord interactif pour suivre les ventes mensuelles, analyser l’affluence, identifier les produits les plus vendus, et comparer les performances entre les magasins.
+  - Créer un tableau de bord interactif pour suivre les ventes mensuelles, analyser l’affluence, identifier les produits les plus vendus, et comparer les performances entre les magasins.
   
   #### Résultat  
-  Le tableau de bord permet de visualiser le chiffre d’affaires, le nombre de clients, les ventes par catégorie, et d’identifier les pics de fréquentation. Il inclut des recommandations stratégiques pour améliorer les ventes.
+  - Le tableau de bord permet de visualiser le chiffre d’affaires, le nombre de clients, les ventes par catégorie, et d’identifier les pics de fréquentation. Il inclut des recommandations stratégiques pour améliorer les ventes.
   
   #### Outils  
   - **Power BI** pour la visualisation.
   - **Excel** pour la préparation des données.
   - **SQL** pour l’exploration des données.
-  - 
+    
 ### 🚗 [EDA_Python - Analyse de Véhicules Électriques](https://github.com/sebastiencaestecker/EDA_Prediction_python)
 
 #### Contexte  
-Ce projet explore un jeu de données sur les véhicules électriques de 2023, avec pour objectif de fournir un storytelling détaillé et de développer un modèle prédictif pour estimer les prix des véhicules électriques.
+- Ce projet explore un jeu de données sur les véhicules électriques de 2023, avec pour objectif de fournir un storytelling détaillé et de développer un modèle prédictif pour estimer les prix des véhicules électriques.
 
 #### Objectif  
-Analyser les caractéristiques des véhicules électriques via des visualisations et tests statistiques, et créer un modèle prédictif pour estimer leur prix en fonction des spécifications.
+- Analyser les caractéristiques des véhicules électriques via des visualisations et tests statistiques, et créer un modèle prédictif pour estimer leur prix en fonction des spécifications.
 
 #### Résultat  
-Le projet offre une vue détaillée des véhicules électriques, des analyses des facteurs influençant les prix, et un modèle prédictif basé sur les caractéristiques des véhicules.
+- Le projet offre une vue détaillée des véhicules électriques, des analyses des facteurs influençant les prix, et un modèle prédictif basé sur les caractéristiques des véhicules.
 
 #### Outils  
 - **Python** pour l'analyse exploratoire et la modélisation.
 - **Pandas & NumPy** pour la manipulation des données.
 - **Matplotlib & Seaborn** pour les visualisations.
 - **Scikit-Learn** pour la création du modèle prédictif.
+
+  
+### 🚴‍♂️ [Pipeline ETL pour Citymapper avec Apache Airflow](https://github.com/sebastiencaestecker/Airflow_API)
+
+#### Contexte  
+- Ce projet automatise l'acquisition et le traitement des données relatives à la location de vélos et aux conditions météorologiques à Paris, en utilisant un pipeline ETL avec Apache Airflow pour extraire, transformer et charger ces données dans une base de données Postgres.
+
+#### Objectif  
+- Développer un pipeline ETL automatisé pour extraire les données des API météo et des stations de vélos, transformer ces données en fichiers CSV et les charger dans une base de données Postgres toutes les heures.
+
+### Résultat  
+- Le pipeline extrait les données en temps réel, les transforme et les charge efficacement, permettant une analyse complète du trafic de location de vélos à Paris en fonction des conditions météorologiques.
+
+#### Outils  
+- **Apache Airflow** pour l'automatisation des workflows.
+- **Python** pour le traitement des données.
+- **Pandas** pour la manipulation des données.
+- **PostgreSQL** pour le stockage des données.
+- **AWS S3** pour le stockage temporaire.
+- **WeatherBit API** pour l'acquisition des données météo.
 
 
 ### **Pipeline ETL pour Citymapper**
