@@ -33,6 +33,22 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 📊 **Projets Réalisés**
 
+### 📊 Tableau de bord pour Coffee Shop
+
+### Contexte  
+Ce projet vise à fournir une analyse des performances commerciales d'un Coffee Shop, avec un focus sur les ventes, la fréquentation des clients et les produits populaires.
+
+### Objectif  
+Créer un tableau de bord interactif pour suivre les ventes mensuelles, analyser l’affluence, identifier les produits les plus vendus, et comparer les performances entre les magasins.
+
+### Résultat  
+Le tableau de bord permet de visualiser le chiffre d’affaires, le nombre de clients, les ventes par catégorie, et d’identifier les pics de fréquentation. Il inclut des recommandations stratégiques pour améliorer les ventes.
+
+### Outils  
+- **Power BI** pour la visualisation.
+- **Excel** pour la préparation des données.
+- **SQL** pour l’exploration des données.
+
 ### **Analyse des Véhicules Électriques**
 - **Objectif** : Analyser les caractéristiques des véhicules électriques pour aider un client à faire un choix éclairé.
 - **Résultats** : Création d'un modèle prédictif pour estimer le prix des véhicules en fonction de leurs caractéristiques.
