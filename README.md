@@ -48,10 +48,24 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
   - **Power BI** pour la visualisation.
   - **Excel** pour la préparation des données.
   - **SQL** pour l’exploration des données.
+  - 
+### 🚗 [EDA_Python - Analyse de Véhicules Électriques](https://github.com/sebastiencaestecker/EDA_Prediction_python)
 
-### **Analyse des Véhicules Électriques**
-- **Objectif** : Analyser les caractéristiques des véhicules électriques pour aider un client à faire un choix éclairé.
-- **Résultats** : Création d'un modèle prédictif pour estimer le prix des véhicules en fonction de leurs caractéristiques.
+#### Contexte  
+Ce projet explore un jeu de données sur les véhicules électriques de 2023, avec pour objectif de fournir un storytelling détaillé et de développer un modèle prédictif pour estimer les prix des véhicules électriques.
+
+#### Objectif  
+Analyser les caractéristiques des véhicules électriques via des visualisations et tests statistiques, et créer un modèle prédictif pour estimer leur prix en fonction des spécifications.
+
+#### Résultat  
+Le projet offre une vue détaillée des véhicules électriques, des analyses des facteurs influençant les prix, et un modèle prédictif basé sur les caractéristiques des véhicules.
+
+#### Outils  
+- **Python** pour l'analyse exploratoire et la modélisation.
+- **Pandas & NumPy** pour la manipulation des données.
+- **Matplotlib & Seaborn** pour les visualisations.
+- **Scikit-Learn** pour la création du modèle prédictif.
+
 
 ### **Pipeline ETL pour Citymapper**
 - **Objectif** : Automatiser l'acquisition et le traitement des données de location de vélos et météorologiques à Paris.
