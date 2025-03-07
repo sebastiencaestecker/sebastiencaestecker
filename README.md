@@ -143,8 +143,8 @@ Cette étude de cas implique une entreprise fictive, WideWorldImporter, avec des
 
 ## 🏆 **Certifications et Formations**
 
-- **Certification Google Analytics** .
-- **Formation en Data Analyst Fullstack** :
+- [**Certification Google Analytics** ](https://skillshop.credential.net/1e53a185-38cf-4348-8178-23347463a3d9#acc.xNRIvWQY).
+- [**Formation en Data Analyst Fullstack** :](https://www.credential.net/9fd25ed9-3b2e-4502-8cac-2b6fcbe4e494#acc.4LUoVDe2)
 
 
 ## 🤝 **Contact**
