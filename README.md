@@ -33,7 +33,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 📊 **Projets Réalisés**
 
-### 📊 Tableau de bord pour Coffee Shop
+### 📊 [Tableau de bord pour Coffee Shop](https://github.com/sebastiencaestecker/Tableau-bord-coffee-shop)
 
   #### Contexte  
   Ce projet vise à fournir une analyse des performances commerciales d'un Coffee Shop, avec un focus sur les ventes, la fréquentation des clients et les produits populaires.
