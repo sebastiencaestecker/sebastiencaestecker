@@ -109,15 +109,35 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 - **Python** : Nettoyage et transformation et  Analyse exploratoire et traitement des données.
 - **Matplotlib & Seaborn** pour les visualisations.
 - **Scikit-Learn** pour la création du modèle prédictif.
+- **GCP** pour le stockage des donées.
 
 
-### **Projet SQL Business Case : WideWorldImporter**
-- **Objectif** : Appliquer les concepts DDL, DML, et DQL pour gérer les données d'une entreprise fictive d'import-export.
-- **Résultats** : Création de requêtes et de procédures stockées.
+### 🎯 [Projet SQL Business Case : Base de Données WideWorldImporter](https://github.com/sebastiencaestecker/SQL_WideWorldImporter)
 
-### **SQL Murder Mystery**
-- **Objectif** : Résoudre un mystère de meurtre en utilisant SQL.
-- **Résultats** : Utilisation de requêtes SQL pour identifier le coupable et reconstituer les événements.
+
+#### Objectif
+
+Ce projet applique les concepts de DDL, DML et DQL dans un contexte commercial, simulant des scénarios réels d’utilisation de SQL pour gérer les données d’une entreprise fictive d'import-export, WideWorldImporter.
+
+#### Contexte Commercial
+
+Cette étude de cas implique une entreprise fictive, WideWorldImporter, avec des besoins commerciaux spécifiques nécessitant l'utilisation de SQL pour gérer les données clients, fournisseurs, commandes, stocks et entrepôts.
+
+#### Thèmes Abordés
+
+- **DDL** : Création, suppression et modification de bases de données, tables et contraintes (`CREATE`, `DROP`, `ALTER`).
+- **DML** : Manipulation des données avec `INSERT INTO`, `UPDATE`, `DELETE`.
+- **DQL** : Requêtes avec fonctions scalaires (`CONCAT`, `LEFT`, `RIGHT`) et fonctions d'agrégation (`AVG`, `SUM`, `MAX`).
+- **Requêtes Complexes** : Rédaction de requêtes avancées avec des sous-requêtes `SELECT` imbriquées.
+- **Triggers** : Mise en place de triggers pour automatiser l'exécution de commandes SQL en réponse à des événements.
+- **Procédures Stockées** : Création de procédures stockées pour réutiliser du code SQL.
+- **Variables SQL** : Utilisation de variables pour rendre les requêtes plus flexibles.
+
+#### Outils Utilisés
+
+- **SQL Server Management Studio (SSMS)** : Pour l'administration et la gestion des bases de données SQL.
+- **Azure** : Plateforme cloud utilisée pour héberger et importer la base de données.
+- **SQL** : Pour manipuler et interroger les données.
 
 ---
 
