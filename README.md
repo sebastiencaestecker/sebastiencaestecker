@@ -30,7 +30,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
   - **Jeux de Stratégie** : Application de compétences analytiques dans un cadre ludique.
   - **Bricolage** : Créativité et résolution de problèmes pratiques.
 
-## [Liste de mes diffenrents projet](https://github.com/sebastiencaestecker?tab=repositories)
+## [Mes projets d’analyse ](https://github.com/sebastiencaestecker?tab=repositories)
 
 ## 📊 [**Quelques-uns de mes projets Réalisés**](https://github.com/sebastiencaestecker?tab=repositories)
 
