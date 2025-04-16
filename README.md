@@ -26,24 +26,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 
-### 📌 [Définir un loyer juste pour les logements publics – Secteur : Collectivité ](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)  
-**🎯 Objectif** : Identifier les facteurs qui influencent les loyers pour proposer des tarifs équitables aux agents publics.  
-**🛠️ Stack** : SQL, Python, Power BI, Google Cloud Platform 
-**💡 Ce que j’ai appris** :  
-- Me familiariser avec la **modélisation prédictive** sur des données socio-territoriales.  
-- Gérer une **stack cloud complète** (GCP : BigQuery, Cloud Storage, Notebooks).  
-- Créer une **carte thématique dynamique** dans Power BI pour visualiser les disparités.
-  
-**✅ Résultats & recommandations** :  
-- Création d’un **référentiel prédictif de loyers**, cohérent avec les caractéristiques locales.  
-- Détection de zones où un loyer plus bas pouvait être justifié (ex. forte criminalité, forte présence de services publics).  
-- **Recommandations métier** :  
-  - Fixer un **loyer ajusté aux revenus moyens** de la zone, sans s’aligner automatiquement sur le marché.  
-  - Valoriser les logements bien **desservis** par les transports, même à loyer égal.  
-  - Créer une **grille différenciée** par zone et indicateurs socio-économiques.  
-  - Utiliser le modèle comme **base de négociation** ou de revalorisation équitable.
-    
-➡️ *[Voir le projet](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)*
+
 ---
 
 ### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
@@ -137,6 +120,27 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 - Sensibilisation à l’impact de **l’équilibre vie pro/perso** et des déplacements fréquents sur la fidélité.
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)*
+
+---
+
+### 📌 [Définir un loyer juste pour les logements publics – Secteur : Collectivité ](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)  
+**🎯 Objectif** : Identifier les facteurs qui influencent les loyers pour proposer des tarifs équitables aux agents publics.  
+**🛠️ Stack** : SQL, Python, Power BI, Google Cloud Platform 
+**💡 Ce que j’ai appris** :  
+- Me familiariser avec la **modélisation prédictive** sur des données socio-territoriales.  
+- Gérer une **stack cloud complète** (GCP : BigQuery, Cloud Storage, Notebooks).  
+- Créer une **carte thématique dynamique** dans Power BI pour visualiser les disparités.
+  
+**✅ Résultats & recommandations** :  
+- Création d’un **référentiel prédictif de loyers**, cohérent avec les caractéristiques locales.  
+- Détection de zones où un loyer plus bas pouvait être justifié (ex. forte criminalité, forte présence de services publics).  
+- **Recommandations métier** :  
+  - Fixer un **loyer ajusté aux revenus moyens** de la zone, sans s’aligner automatiquement sur le marché.  
+  - Valoriser les logements bien **desservis** par les transports, même à loyer égal.  
+  - Créer une **grille différenciée** par zone et indicateurs socio-économiques.  
+  - Utiliser le modèle comme **base de négociation** ou de revalorisation équitable.
+    
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)*
 
 ---
 
