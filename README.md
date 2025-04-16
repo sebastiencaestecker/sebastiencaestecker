@@ -9,144 +9,134 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 🎯 **Compétences Clés**
 
-| Domaine                  | Outils                                                                       |
-|--------------------------|------------------------------------------------------------------------------|
-| **Exploration & Analyse** | SQL (PostgreSQL, BigQuery, Sql serveur), Python (Pandas,Numpy,Matplotlib)                                    |
-| **Data Viz**              | Power BI, Tableau                                                           |
-| **ETL & Data Pipeline**   | dbt, Airbyte                                                                |
-| **Cloud**                 | Google Cloud Platform (BigQuery, Cloud Storage, Notebooks)                  |
-| **Modélisation**          | Python (scikit-learn, matplotlib), Excel                                    |
-| **Documentation**         | Notion, Markdown, GitHub Projects         
-- **Langages et Technologies de Données** :
-  - **SQL, Python, API** : Manipulation et l'analyse des données.
-  - **Tableau, Power BI, Metabase** : Création de visualisations et de tableaux de bord interactifs.
+| Domaine                   | Outils                                                                                   |
+|---------------------------|------------------------------------------------------------------------------------------|
+| **Exploration & Analyse** | SQL (PostgreSQL, BigQuery, SQL Server), Python (Pandas, Numpy, Matplotlib), Excel        |
+| **Data Viz**              | Power BI, Tableau                                                                        |
+| **ETL**                   | dbt, Airbyte                                                                             |
+| **Cloud**                 | Google Cloud Platform (BigQuery, Cloud Storage, Notebooks) , Azure                       |
+| **Prédiction**            | Python (scikit-learn)                                                                    |
+| **API & Web Scraping**    | Python (requests, BeautifulSoup, Scrapy)                                                 |
+| **Documentation**         | Notion, Markdown, GitHub                                                                 |
 
-- **Outils de Développement et d'Orchestration** :
-  - **Docker** : Containerisation des application.
-  - **Airflow, DBT, Dataiku** : Automatisation des workflows de données et gestion des pipelines ETL.
 
-- **Plateformes Cloud et Big Data** :
-  - **Azure, GCP, Snowflake** : Utilisation de services cloud pour le stockage et l'analyse des données.
-  - **Google Analytics** : Analyse des données web .
 
-- **Outils d'Analyse et de Calcul** :
-  - **Excel** : Analyse de données et création de rapports.
-  - **Apache Spark** : Traitement et analyse de grandes quantités de données.
 
-- **Passions et Intérêts** :
-  - **Sport** : Engagement dans des activités physiques pour maintenir un équilibre de vie.
-  - **Jeux de Stratégie** : Application de compétences analytiques dans un cadre ludique.
-  - **Bricolage** : Créativité et résolution de problèmes pratiques.
-
-## [Mes projets d’analyse ](https://github.com/sebastiencaestecker?tab=repositories)
 
 ## 📊 [**Quelques-uns de mes projets Réalisés**](https://github.com/sebastiencaestecker?tab=repositories)
 
-### 📊 [Tableau de bord pour Coffee Shop](https://github.com/sebastiencaestecker/Tableau-bord-coffee-shop)
+## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 
-  #### Contexte  
-  - Ce projet vise à fournir une analyse des performances commerciales d'un Coffee Shop, avec un focus sur les ventes, la fréquentation des clients et les produits populaires.
-  
-  #### Objectif  
-  - Créer un tableau de bord interactif pour suivre les ventes mensuelles, analyser l’affluence, identifier les produits les plus vendus, et comparer les performances entre les magasins.
-  
-  #### Résultat  
-  - Le tableau de bord permet de visualiser le chiffre d’affaires, le nombre de clients, les ventes par catégorie, et d’identifier les pics de fréquentation. Il inclut des recommandations stratégiques pour améliorer les ventes.
-  
-  #### Outils  
-  - **Power BI** pour la visualisation.
-  - **Excel** pour la préparation des données.
-  - **SQL** pour l’exploration des données.
-    
-### 🚗 [EDA_Python - Analyse de Véhicules Électriques](https://github.com/sebastiencaestecker/EDA_Prediction_python)
+### 📌 [Définir un loyer juste pour les logements publics – Secteur : Collectivité ](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)  
+**🎯 Objectif** : Identifier les facteurs qui influencent les loyers pour proposer des tarifs équitables aux agents publics.  
+**🛠️ Stack** : SQL, Python, Power BI, Google Cloud Platform 
+**💡 Ce que j’ai appris** :  
+- Me familiariser avec la **modélisation prédictive** sur des données socio-territoriales.  
+- Gérer une **stack cloud complète** (GCP : BigQuery, Cloud Storage, Notebooks).  
+- Créer une **carte thématique dynamique** dans Power BI pour visualiser les disparités.  
+- Réfléchir à la notion d’**équité** dans les politiques publiques à travers l’usage raisonné de la donnée.
+**✅ Résultats & recommandations** :  
+- Création d’un **référentiel prédictif de loyers**, cohérent avec les caractéristiques locales.  
+- Détection de zones où un loyer plus bas pouvait être justifié (ex. forte criminalité, forte présence de services publics).  
+- **Recommandations métier** :  
+  - Fixer un **loyer ajusté aux revenus moyens** de la zone, sans s’aligner automatiquement sur le marché.  
+  - Valoriser les logements bien **desservis** par les transports, même à loyer égal.  
+  - Créer une **grille différenciée** par zone et indicateurs socio-économiques.  
+  - Utiliser le modèle comme **base de négociation** ou de revalorisation équitable.
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)*
+---
 
-#### Contexte  
-- Ce projet explore un jeu de données sur les véhicules électriques de 2023, avec pour objectif de fournir un storytelling détaillé et de développer un modèle prédictif pour estimer les prix des véhicules électriques.
+### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
+**🎯 Objectif** : Comprendre les parcours utilisateurs pour améliorer la conversion des abonnés.  
+**🛠️ Stack** : SQL analytique
+**💡 Ce que j’ai appris** :  
+- Approfondir la **modélisation temporelle** des parcours utilisateurs.  
+- Manipuler des **fonctions analytiques SQL** : `RANK()`, `ROW_NUMBER()` pour créer des séquences comportementales.  
+- Simuler des **paiements réalistes** avec une logique métier intégrée.  
+- Penser l’analyse sous l’angle de la **valeur client** et de la **durabilité du modèle économique**.  
+- Comprendre les enjeux clés du **business model SaaS** : conversion, rétention, lifetime value.
+**✅ Résultats & recommandations** :  
+- **19,4 %** des utilisateurs annulent après l’essai gratuit, sans tester de plan payant.  
+- Les clients qui souscrivent un **plan annuel** sont les plus fidèles.  
+- Le **churn est plus élevé** chez les utilisateurs peu actifs durant la période d’essai.
+**📌 Recommandations métier** :  
+- Proposer une **offre promotionnelle ciblée** à la fin de l’essai gratuit.  
+- Mettre en place un **email de réassurance** personnalisé avant la fin de l’essai.  
+- Détecter les **signaux faibles de churn anticipé** : faible fréquence d’usage, sessions trop courtes, inactivité.  
 
-#### Objectif  
-- Analyser les caractéristiques des véhicules électriques via des visualisations et tests statistiques, et créer un modèle prédictif pour estimer leur prix en fonction des spécifications.
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)*
 
-#### Résultat  
-- Le projet offre une vue détaillée des véhicules électriques, des analyses des facteurs influençant les prix, et un modèle prédictif basé sur les caractéristiques des véhicules.
+---
 
-#### Outils  
-- **Python** pour l'analyse exploratoire et la modélisation.
-- **Matplotlib & Seaborn** pour les visualisations.
-- **Scikit-Learn** pour la création du modèle prédictif.
+### 📌 [Analyser la performance d’un réseau de coffee shops – Secteur : Retail](https://github.com/sebastiencaestecker/Booster-la-performance-d-un-coffee-shops-avec-l-analyse-comportementale-client/blob/main/README.md)  
+**🎯 Objectif** : Améliorer les ventes, la gestion produit et les horaires d’ouverture grâce à l’analyse multi-sites.  
+**🛠️ Stack** : Power BI, DAX, modélisation temporelle 
+**💡 Ce que j’ai appris** :  
+- Maîtriser les filtres temporels avancés avec `SAMEPERIODLASTYEAR`, `PARALLELPERIOD`, `DATEADD` pour enrichir les analyses.  
+- Travailler la **granularité temporelle** (jour, heure, semaine) pour générer des insights actionnables.  
+- Concevoir un **dashboard interactif**, fluide et lisible pour des managers terrain.  
+- Me mettre dans la peau d’un **manager retail** avec des objectifs de rentabilité, de satisfaction client et d’optimisation opérationnelle.  
+- Travailler à la croisée de la **technique, du comportement client et de la prise de décision métier.**
+**✅ Résultats & observations clés** :  
+- CA mensuel : **166K€**, en hausse de **+6,2 %** vs mois précédent.  
+- **73 % des ventes** concentrées en semaine (lundi à vendredi).  
+- **Heures de forte affluence** : 8h–11h, avec un pic le mercredi matin.  
+- Les **produits les plus rentables** : Barista Espresso, Brewed Chai Tea, boissons chaudes personnalisées.  
+- Magasin leader : **Hell’s Kitchen**, +8,3 % de croissance.  
+- Décorrélation entre affluence et CA → opportunité d’optimisation produit/offre.
+**📌 Recommandations métier** :  
+- Optimiser les **plannings d’équipe** sur les créneaux 8h–11h, notamment les mercredis et vendredis.  
+- Mettre en avant les **boissons artisanales premium**, contributrices clés au CA.  
+- Proposer des **offres combo ou happy hours** pour lisser la fréquentation en heures creuses (soirées, week-ends).  
+- Piloter **chaque point de vente individuellement**, avec un suivi simplifié adapté aux managers locaux.  
+- Valoriser l’offre végétale dans la gamme café pour répondre aux nouvelles attentes clients.
 
-  
-### 🚴‍♂️ [Pipeline ETL pour Citymapper avec Apache Airflow](https://github.com/sebastiencaestecker/Airflow_API)
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Booster-la-performance-d-un-coffee-shops-avec-l-analyse-comportementale-client/blob/main/README.md)*
 
-#### Contexte  
-- Ce projet automatise l'acquisition et le traitement des données relatives à la location de vélos et aux conditions météorologiques à Paris, en utilisant un pipeline ETL avec Apache Airflow pour extraire, transformer et charger ces données dans une base de données Postgres.
+---
 
-#### Objectif  
-- Développer un pipeline ETL automatisé pour extraire les données des API météo et des stations de vélos, transformer ces données en fichiers CSV et les charger dans une base de données Postgres toutes les heures.
+### 📌 [Optimiser logistique, produit et client pour une pizzeria digitalisée – Secteur : Retail](https://github.com/sebastiencaestecker/Optimiser-l-experience-client-et-la-logistique-dans-la-restauration-rapide/blob/main/README.md)  
+**🎯 Objectif** : Améliorer la rentabilité via l’analyse des commandes, livraisons, préférences clients.  
+**🛠️ Stack** : SQL
+**💡 Ce que j’ai appris** :  
+- Approfondir la **modélisation temporelle** dans SQL (temps de commande vs livraison).  
+- Manipuler des fonctions avancées : `STRING_SPLIT`, `STRING_AGG`, `CASE`, `CAST`.  
+- Travailler la **logique métier retail** et formuler des recommandations activables.  
+- Créer des **analyses actionnables** pour les métiers de la logistique, du retail ou de la restauration.  
+- Traduire une base de données en **décisions stratégiques** et visuellement compréhensibles.  
+- Travailler à la croisée de la **technique, de l’expérience client et de l’optimisation opérationnelle**.
+**✅ Résultats & recommandations** :  
+- 64 % des pizzas livrées sont **modifiées** → complexité accrue.  
+- Les personnalisations augmentent le **temps de livraison de +30 %**.  
+- Les **pizzas végétariennes** sont les plus personnalisées.  
+- Forte **disparité entre livreurs** : vitesses moyennes de 10 à 20 km/h.  
+- **Taux de livraison réussie** global : 87 %.  
+**📌 Recommandations métier** :  
+- Réduire la carte aux **recettes les plus commandées** avec le moins de modifications.  
+- Simplifier la personnalisation via des **combinaisons prédéfinies**.  
+- Former les livreurs les plus lents ou les affecter à des **plages horaires creuses**.  
+- Optimiser les **achats d’ingrédients** en fonction des exclusions fréquentes.  
+- Proposer un **bonus logistique** basé sur la performance (vitesse, distance parcourue, ponctualité).  
 
-### Résultat  
-- Le pipeline extrait les données en temps réel, les transforme et les charge efficacement, permettant une analyse complète du trafic de location de vélos à Paris en fonction des conditions météorologiques.
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-l-experience-client-et-la-logistique-dans-la-restauration-rapide/blob/main/README.md)*
 
-#### Outils  
-- **Apache Airflow** pour l'automatisation des workflows.
-- **Python** pour le traitement des données.
-- **Pandas** pour la manipulation des données.
-- **PostgreSQL** pour le stockage des données.
-- **AWS S3** pour le stockage temporaire.
-- **WeatherBit API** pour l'acquisition des données météo.
+---
 
-  
+### 📌 [Comprendre l’attrition des employés – Secteur : RH ](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)  
+**🎯 Objectif** : Identifier les facteurs de départ des collaborateurs dans une entreprise tech fictive.  
+**🛠️ Stack** : DAX, Power BI  
+**💡 Ce que j’ai appris** :  
+- Approfondir la **modélisation temporelle** et la gestion des jointures dans Power BI.  
+- Renforcer mes compétences en **DAX** et **Power Query**.  
+- Concevoir un **dashboard orienté métier**, simple, clair et directement actionnable par les RH.
+**✅ Résultats & recommandations** :  
+- Identification de postes à fort turnover : **Sales Reps, RH, Data Scientists**.  
+- Mise en évidence de **facteurs aggravants** : heures supplémentaires, voyages fréquents, faible ancienneté.  
+- Ciblage des **profils en perte de satisfaction**, avant que la situation ne se dégrade.  
+- **Actions de rétention prioritaires** recommandées sur les jeunes talents (< 2 ans d’ancienneté).  
+- Sensibilisation à l’impact de **l’équilibre vie pro/perso** et des déplacements fréquents sur la fidélité.
 
-### [Projet Immobilier Analyse des loyers pour la ville de Jedha](https://github.com/sebastiencaestecker/Projet_immo)
-
-#### Contexte
-
-- La ville de Jedha a sollicité la société A.S.O pour analyser les loyers des appartements acquis pour ses fonctionnaires, afin d'identifier les variables influençant le prix des loyers en France.
-
-#### Objectif
-
- - Déterminer les facteurs clés influençant les loyers en France à partir de diverses données (infrastructures, démographiques, revenus fiscaux, etc.) et créer un modèle de régression pour prédire les loyers.
-
-#### Résultat
-
-- Nettoyage et fusion des datasets.
-- Analyse exploratoire des données (EDA).
-- Modèle de régression linéaire pour prédire les loyers.
-- Visualisations interactives des loyers par zone.
-
-#### Outils
-- **Power BI** : Visualisations et tableaux de bord.
-- **Python** : Nettoyage et transformation et  Analyse exploratoire et traitement des données.
-- **Matplotlib & Seaborn** pour les visualisations.
-- **Scikit-Learn** pour la création du modèle prédictif.
-- **GCP** pour le stockage des donées.
-
-
-### 🎯 [Projet SQL Business Case : Base de Données WideWorldImporter](https://github.com/sebastiencaestecker/SQL_WideWorldImporter)
-
-
-#### Objectif
-
-Ce projet applique les concepts de DDL, DML et DQL dans un contexte commercial, simulant des scénarios réels d’utilisation de SQL pour gérer les données d’une entreprise fictive d'import-export, WideWorldImporter.
-
-#### Contexte Commercial
-
-Cette étude de cas implique une entreprise fictive, WideWorldImporter, avec des besoins commerciaux spécifiques nécessitant l'utilisation de SQL pour gérer les données clients, fournisseurs, commandes, stocks et entrepôts.
-
-#### Thèmes Abordés
-
-- **DDL** : Création, suppression et modification de bases de données, tables et contraintes (`CREATE`, `DROP`, `ALTER`).
-- **DML** : Manipulation des données avec `INSERT INTO`, `UPDATE`, `DELETE`.
-- **DQL** : Requêtes avec fonctions scalaires (`CONCAT`, `LEFT`, `RIGHT`) et fonctions d'agrégation (`AVG`, `SUM`, `MAX`).
-- **Requêtes Complexes** : Rédaction de requêtes avancées avec des sous-requêtes `SELECT` imbriquées.
-- **Triggers** : Mise en place de triggers pour automatiser l'exécution de commandes SQL en réponse à des événements.
-- **Procédures Stockées** : Création de procédures stockées pour réutiliser du code SQL.
-- **Variables SQL** : Utilisation de variables pour rendre les requêtes plus flexibles.
-
-#### Outils Utilisés
-
-- **SQL Server Management Studio (SSMS)** : Pour l'administration et la gestion des bases de données SQL.
-- **Azure** : Plateforme cloud utilisée pour héberger et importer la base de données.
-- **SQL** : Pour manipuler et interroger les données.
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)*
 
 ---
 
