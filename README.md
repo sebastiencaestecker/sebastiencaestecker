@@ -1,4 +1,4 @@
-# Sébastien Caestecker - Data Analyst
+# Sébastien Caestecker - Data Analyst | Analyse métier | SQL • Power BI • Python • dbt • GCP • Azure
 
 
 ## 👨‍💼 **À Propos de Moi**
@@ -9,6 +9,14 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 🎯 **Compétences Clés**
 
+| Domaine                  | Outils                                                                       |
+|--------------------------|------------------------------------------------------------------------------|
+| **Exploration & Analyse** | SQL (PostgreSQL, BigQuery, Sql serveur), Python (Pandas,Numpy,Matplotlib)                                    |
+| **Data Viz**              | Power BI, Tableau                                                           |
+| **ETL & Data Pipeline**   | dbt, Airbyte                                                                |
+| **Cloud**                 | Google Cloud Platform (BigQuery, Cloud Storage, Notebooks)                  |
+| **Modélisation**          | Python (scikit-learn, matplotlib), Excel                                    |
+| **Documentation**         | Notion, Markdown, GitHub Projects         
 - **Langages et Technologies de Données** :
   - **SQL, Python, API** : Manipulation et l'analyse des données.
   - **Tableau, Power BI, Metabase** : Création de visualisations et de tableaux de bord interactifs.
