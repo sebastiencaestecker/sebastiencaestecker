@@ -32,6 +32,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 ### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
 **🎯 Objectif** : Comprendre les parcours utilisateurs pour améliorer la conversion des abonnés.  
 **🛠️ Stack** : SQL analytique
+
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** des parcours utilisateurs.  
 - Manipuler des **fonctions analytiques SQL** : `RANK()`, `ROW_NUMBER()` pour créer des séquences comportementales.  
@@ -54,6 +55,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 ### 📌 [Analyser la performance d’un réseau de coffee shops – Secteur : Retail](https://github.com/sebastiencaestecker/Booster-la-performance-d-un-coffee-shops-avec-l-analyse-comportementale-client/blob/main/README.md)  
 **🎯 Objectif** : Améliorer les ventes, la gestion produit et les horaires d’ouverture grâce à l’analyse multi-sites.  
 **🛠️ Stack** : Power BI, DAX, modélisation temporelle 
+
 **💡 Ce que j’ai appris** :  
 - Maîtriser les filtres temporels avancés avec `SAMEPERIODLASTYEAR`, `PARALLELPERIOD`, `DATEADD` pour enrichir les analyses.  
 - Travailler la **granularité temporelle** (jour, heure, semaine).  
@@ -81,6 +83,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 ### 📌 [Optimiser logistique, produit et client pour une pizzeria digitalisée – Secteur : Retail](https://github.com/sebastiencaestecker/Optimiser-l-experience-client-et-la-logistique-dans-la-restauration-rapide/blob/main/README.md)  
 **🎯 Objectif** : Améliorer la rentabilité via l’analyse des commandes, livraisons, préférences clients.  
 **🛠️ Stack** : SQL
+
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** dans SQL (temps de commande vs livraison).  
 - Manipuler des fonctions avancées : `STRING_SPLIT`, `STRING_AGG`, `CASE`, `CAST`.  
@@ -107,6 +110,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 ### 📌 [Comprendre l’attrition des employés – Secteur : RH ](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)  
 **🎯 Objectif** : Identifier les facteurs de départ des collaborateurs dans une entreprise tech fictive.  
 **🛠️ Stack** : DAX, Power BI  
+
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** et la gestion des jointures dans Power BI.  
 - Renforcer mes compétences en **DAX** et **Power Query**.  
@@ -126,6 +130,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 ### 📌 [Définir un loyer juste pour les logements publics – Secteur : Collectivité ](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)  
 **🎯 Objectif** : Identifier les facteurs qui influencent les loyers pour proposer des tarifs équitables aux agents publics.  
 **🛠️ Stack** : SQL, Python, Power BI, Google Cloud Platform 
+
 **💡 Ce que j’ai appris** :  
 - Me familiariser avec la **modélisation prédictive** sur des données socio-territoriales.  
 - Gérer une **stack cloud complète** (GCP : BigQuery, Cloud Storage, Notebooks).  
