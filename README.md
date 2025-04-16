@@ -31,7 +31,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
 **🎯 Objectif** : Comprendre les parcours utilisateurs pour améliorer la conversion des abonnés.  
-**🛠️ Stack** : SQL analytique
+**🛠️ Stack** : SQL 
 
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** des parcours utilisateurs.  
@@ -54,7 +54,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ### 📌 [Analyser la performance d’un réseau de coffee shops – Secteur : Retail](https://github.com/sebastiencaestecker/Booster-la-performance-d-un-coffee-shops-avec-l-analyse-comportementale-client/blob/main/README.md)  
 **🎯 Objectif** : Améliorer les ventes, la gestion produit et les horaires d’ouverture grâce à l’analyse multi-sites.  
-**🛠️ Stack** : Power BI, DAX, modélisation temporelle 
+**🛠️ Stack** : Power Query, Power BI, DAX, modélisation temporelle 
 
 **💡 Ce que j’ai appris** :  
 - Maîtriser les filtres temporels avancés avec `SAMEPERIODLASTYEAR`, `PARALLELPERIOD`, `DATEADD` pour enrichir les analyses.  
@@ -109,7 +109,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ### 📌 [Comprendre l’attrition des employés – Secteur : RH ](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)  
 **🎯 Objectif** : Identifier les facteurs de départ des collaborateurs dans une entreprise tech fictive.  
-**🛠️ Stack** : DAX, Power BI  
+**🛠️ Stack** : DAX, Power BI, Power Query 
 
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** et la gestion des jointures dans Power BI.  
