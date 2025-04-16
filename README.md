@@ -23,7 +23,6 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 
 
-## 📊 [**Quelques-uns de mes projets Réalisés**](https://github.com/sebastiencaestecker?tab=repositories)
 
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 
