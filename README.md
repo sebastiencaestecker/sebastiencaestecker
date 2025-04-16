@@ -34,7 +34,6 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 - Me familiariser avec la **modélisation prédictive** sur des données socio-territoriales.  
 - Gérer une **stack cloud complète** (GCP : BigQuery, Cloud Storage, Notebooks).  
 - Créer une **carte thématique dynamique** dans Power BI pour visualiser les disparités.  
-- Réfléchir à la notion d’**équité** dans les politiques publiques à travers l’usage raisonné de la donnée.
 **✅ Résultats & recommandations** :  
 - Création d’un **référentiel prédictif de loyers**, cohérent avec les caractéristiques locales.  
 - Détection de zones où un loyer plus bas pouvait être justifié (ex. forte criminalité, forte présence de services publics).  
@@ -43,6 +42,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
   - Valoriser les logements bien **desservis** par les transports, même à loyer égal.  
   - Créer une **grille différenciée** par zone et indicateurs socio-économiques.  
   - Utiliser le modèle comme **base de négociation** ou de revalorisation équitable.
+    
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)*
 ---
 
@@ -52,9 +52,8 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** des parcours utilisateurs.  
 - Manipuler des **fonctions analytiques SQL** : `RANK()`, `ROW_NUMBER()` pour créer des séquences comportementales.  
-- Simuler des **paiements réalistes** avec une logique métier intégrée.  
 - Penser l’analyse sous l’angle de la **valeur client** et de la **durabilité du modèle économique**.  
-- Comprendre les enjeux clés du **business model SaaS** : conversion, rétention, lifetime value.
+- Comprendre les enjeux clés du business : conversion, rétention, lifetime value.
 **✅ Résultats & recommandations** :  
 - **19,4 %** des utilisateurs annulent après l’essai gratuit, sans tester de plan payant.  
 - Les clients qui souscrivent un **plan annuel** sont les plus fidèles.  
@@ -73,10 +72,10 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 **🛠️ Stack** : Power BI, DAX, modélisation temporelle 
 **💡 Ce que j’ai appris** :  
 - Maîtriser les filtres temporels avancés avec `SAMEPERIODLASTYEAR`, `PARALLELPERIOD`, `DATEADD` pour enrichir les analyses.  
-- Travailler la **granularité temporelle** (jour, heure, semaine) pour générer des insights actionnables.  
-- Concevoir un **dashboard interactif**, fluide et lisible pour des managers terrain.  
-- Me mettre dans la peau d’un **manager retail** avec des objectifs de rentabilité, de satisfaction client et d’optimisation opérationnelle.  
-- Travailler à la croisée de la **technique, du comportement client et de la prise de décision métier.**
+- Travailler la **granularité temporelle** (jour, heure, semaine).  
+- Concevoir un **dashboard interactif**  
+- Objectifs de rentabilité, de satisfaction client et d’optimisation opérationnelle.  
+
 **✅ Résultats & observations clés** :  
 - CA mensuel : **166K€**, en hausse de **+6,2 %** vs mois précédent.  
 - **73 % des ventes** concentrées en semaine (lundi à vendredi).  
@@ -101,10 +100,8 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** dans SQL (temps de commande vs livraison).  
 - Manipuler des fonctions avancées : `STRING_SPLIT`, `STRING_AGG`, `CASE`, `CAST`.  
-- Travailler la **logique métier retail** et formuler des recommandations activables.  
-- Créer des **analyses actionnables** pour les métiers de la logistique, du retail ou de la restauration.  
+- Travailler la **logique métier retail** et formuler des recommandations.   
 - Traduire une base de données en **décisions stratégiques** et visuellement compréhensibles.  
-- Travailler à la croisée de la **technique, de l’expérience client et de l’optimisation opérationnelle**.
 **✅ Résultats & recommandations** :  
 - 64 % des pizzas livrées sont **modifiées** → complexité accrue.  
 - Les personnalisations augmentent le **temps de livraison de +30 %**.  
@@ -128,7 +125,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 **💡 Ce que j’ai appris** :  
 - Approfondir la **modélisation temporelle** et la gestion des jointures dans Power BI.  
 - Renforcer mes compétences en **DAX** et **Power Query**.  
-- Concevoir un **dashboard orienté métier**, simple, clair et directement actionnable par les RH.
+- Concevoir un **dashboard orienté métier**, simple, clair pour les RH.
 **✅ Résultats & recommandations** :  
 - Identification de postes à fort turnover : **Sales Reps, RH, Data Scientists**.  
 - Mise en évidence de **facteurs aggravants** : heures supplémentaires, voyages fréquents, faible ancienneté.  
