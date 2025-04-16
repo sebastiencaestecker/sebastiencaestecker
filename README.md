@@ -74,7 +74,6 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 - Travailler la **granularité temporelle** (jour, heure, semaine).  
 - Concevoir un **dashboard interactif**  
 - Objectifs de rentabilité, de satisfaction client et d’optimisation opérationnelle.  
-
 **✅ Résultats & observations clés** :  
 - CA mensuel : **166K€**, en hausse de **+6,2 %** vs mois précédent.  
 - **73 % des ventes** concentrées en semaine (lundi à vendredi).  
