@@ -26,6 +26,36 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 
+---
+
+### 📌 [Segmenter sa base client pour activer les bons leviers CRM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
+
+**🎯 Objectif** : Identifier les segments clients les plus rentables et définir des actions marketing adaptées.
+**🛠️ Stack** : BigQuery SQL
+
+**💡 Ce que j’ai appris** :
+
+* Construire une **segmentation RFM** à partir de comportements d’achat.
+* Utiliser `PERCENTILE_CONT()` pour un découpage en **quartiles réels** (type `qcut`)
+* Concevoir une analyse SQL, de l’agrégation brute jusqu’au scoring CRM pour faire des **recommandations pour un responsable marketing**.
+
+**✅ Résultats & recommandations** :
+
+* Les **clients Platine et Gold** représentent **38 % de la base** mais génèrent **près de 48 % du chiffre d’affaires**.
+* Le segment **Silver**, majoritaire, est **sous-exploité commercialement**.
+* Le segment **Iron** génère très peu de valeur malgré un coût d’acquisition équivalent.
+
+**📌 Recommandations métier** :
+
+* Fidéliser les clients Platine via un **programme VIP ou offres exclusives**.
+* Activer le potentiel du segment Silver par des **promotions à seuil ou du cross-sell**.
+* Exclure ou réactiver les clients Iron avec des campagnes ciblées à faible coût.
+
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)*
+
+---
+
+Tu veux que je te prépare aussi un **deuxième bloc formaté** pour un projet Power BI ou marketing (par exemple celui sur les Coffee Shops ou Foodie-Fi) ?
 
 ---
 
