@@ -37,7 +37,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 **💡 Ce que j’ai appris** :
 
 * Construire une **segmentation RFM** à partir de comportements d’achat.
-* Utiliser `PERCENTILE_CONT()` pour un découpage en **quartiles réels** (type `qcut`)
+* Utiliser `PERCENTILE_CONT()` pour un découpage en **quartiles réels** 
 * Concevoir une analyse SQL, de l’agrégation brute jusqu’au scoring CRM pour faire des **recommandations pour un responsable marketing**.
 
 **✅ Résultats & recommandations** :
