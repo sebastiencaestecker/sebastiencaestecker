@@ -53,9 +53,6 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)*
 
----
-
-Tu veux que je te prépare aussi un **deuxième bloc formaté** pour un projet Power BI ou marketing (par exemple celui sur les Coffee Shops ou Foodie-Fi) ?
 
 ---
 
