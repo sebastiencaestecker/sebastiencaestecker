@@ -28,7 +28,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ---
 
-### 📌 [Segmenter sa base client pour activer les bons leviers CRM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
+### 📌 [Segmenter sa base client par RFM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
 
 **🎯 Objectif** : Identifier les segments clients les plus rentables et définir des actions marketing adaptées.
 
