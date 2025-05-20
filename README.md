@@ -40,7 +40,7 @@ Renforcer la fidélité et la valeur du segment Silver en activant une catégori
 * Identifier des opportunités d’activation via une **analyse RFM croisée au comportement produit**
 * Utiliser `PERCENTILE_CONT()` pour le scoring RFM et `RAND()` pour créer un **groupe témoin aléatoire (10 %)**
 * Simuler un **ROI de campagne CRM réaliste** en tenant compte du panier, de la marge et du taux de conversion estimé
-* Estimer le taux de conversion en se basant sur les campagnes précedente
+* Estimer le taux de conversion en se basant sur les campagnes précédentes
 * Structurer une campagne CRM testable et exploitable par une équipe marketing
 
 **✅ Résultats & recommandations :**
