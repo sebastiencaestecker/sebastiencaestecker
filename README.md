@@ -28,6 +28,40 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ---
 
+### 📌 [Fidéliser les clients Silver via une campagne ciblée – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)
+
+**🎯 Objectif** :
+Renforcer la fidélité et la valeur du segment Silver en activant une catégorie stratégique peu consommée mais très margée : *Outerwear & Coats*.
+
+**🛠️ Stack :** BigQuery SQL
+
+**💡 Ce que j’ai appris :**
+
+* Identifier des opportunités d’activation via une **analyse RFM croisée au comportement produit**
+* Utiliser `PERCENTILE_CONT()` pour le scoring RFM et `RAND()` pour créer un **groupe témoin aléatoire (10 %)**
+* Simuler un **ROI de campagne CRM réaliste** en tenant compte du panier, de la marge et du taux de conversion estimé
+* Structurer une campagne CRM testable et exploitable par une équipe marketing
+
+**✅ Résultats & recommandations :**
+
+* 1 820 clients Silver ciblés (actifs mais non acheteurs de manteaux)
+* Offre proposée : **25 € dès 100 €** → ROI estimé : **x1,97**
+* La campagne ciblée (conversion estimée à 5 %) est **3 à 4 fois plus efficace** que la promotion -70 % des soldes (conversion observée : 0,6 %)
+
+**📌 Recommandations métier :**
+
+* Utiliser ce type de logique pour créer des **campagnes ciblées mesurables**
+* Croiser le scoring RFM avec les **marges et paniers par catégorie** pour calibrer la générosité
+* Ciblage via un pipeline SQL + BIGQUERY
+
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)*
+
+---
+
+Souhaites-tu que je te prépare aussi une miniature visuelle (capture ou schéma) à intégrer dans GitHub ou LinkedIn ?
+
+---
+
 ### 📌 [Segmenter sa base client par RFM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
 
 **🎯 Objectif** : Identifier les segments clients les plus rentables et définir des actions marketing adaptées.
