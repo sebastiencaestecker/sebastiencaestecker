@@ -13,7 +13,6 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 |---------------------------|------------------------------------------------------------------------------------------|
 | **Exploration & Analyse** | SQL (PostgreSQL, BigQuery, SQL Server), Python (Pandas, Numpy, Matplotlib), Excel        |
 | **Data Viz**              | Power BI, Tableau                                                                        |
-| **ETL**                   | dbt, Airbyte                                                                             |
 | **Cloud**                 | Google Cloud Platform (BigQuery, Cloud Storage, Notebooks) , Azure                       |
 | **Prédiction**            | Python (scikit-learn)                                                                    |
 | **API & Web Scraping**    | Python (requests, BeautifulSoup, Scrapy)                                                 |
