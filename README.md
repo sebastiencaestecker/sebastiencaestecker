@@ -1,4 +1,4 @@
-# Sébastien Caestecker - Data Analyst | Analyse métier | SQL • Power BI • Python • dbt • GCP • Azure
+# Sébastien Caestecker - Data Analyst | Analyse métier | SQL • Power BI • Python • GCP • Azure
 
 
 ## 👨‍💼 **À Propos de Moi**
