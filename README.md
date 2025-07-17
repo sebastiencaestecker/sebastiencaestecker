@@ -23,11 +23,11 @@ J’aide les équipes à poser les bonnes questions, à voir clair dans leurs do
 
 ## 🛠️ Mes outils du quotidien
 
-- **SQL** (BigQuery, PostgreSQL)
+- **SQL** (BigQuery, Snowflake, PostgreSQL, SQL Server)
 - **Power BI** (DAX, Power Query)
 - **Python** (Pandas, Numpy)
-- **Cloud** : GCP, Azure
-- **Autres** : Excel avancé, GitHub, Notion
+- **Cloud** : GCP, Azure, Snowflake
+- **Autres** : Excel, GitHub, Notion
 
 
 🎯 Je cherche un poste de **data analyst ou performance analyst**, dans un environnement où la donnée sert **vraiment à décider** 
