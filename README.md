@@ -24,6 +24,13 @@ Je suis un analyste qui comprend le métier **avant** la donnée.
 Un ex-manager qui parle le langage du terrain.
 Et un **data solver**, capable de transformer un problème en un plan d’action.
 
+**📌 Enjeux traités :**
+
+* Ciblage client & campagnes CRM rentables
+* Churn & onboarding dans un modèle freemium
+* Analyse multi-magasins & logistique dernier km
+* Pricing public équitable (secteur public)
+* Rétention RH & performance des équipes
 
 ## 🛠️ Mes outils du quotidien
 
