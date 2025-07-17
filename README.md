@@ -292,23 +292,47 @@ Quels sont les facteurs qui précèdent un départ volontaire, et comment les RH
 ---
 
 ### 📌 [Définir un loyer juste pour les logements publics – Secteur : Collectivité ](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)  
-**🎯 Objectif** : Identifier les facteurs qui influencent les loyers pour proposer des tarifs équitables aux agents publics.  
-**🛠️ Stack** : SQL, Python, Power BI, Google Cloud Platform 
 
-**💡 Ce que j’ai appris** :  
-- Me familiariser avec la **modélisation prédictive** sur des données socio-territoriales.  
-- Gérer une **stack cloud complète** (GCP : BigQuery, Cloud Storage, Notebooks).  
-- Créer une **carte thématique dynamique** dans Power BI pour visualiser les disparités.
-  
-**✅ Résultats & recommandations** :  
-- Création d’un **référentiel prédictif de loyers**, cohérent avec les caractéristiques locales.  
-- Détection de zones où un loyer plus bas pouvait être justifié (ex. forte criminalité, forte présence de services publics).  
-- **Recommandations métier** :  
-  - Fixer un **loyer ajusté aux revenus moyens** de la zone, sans s’aligner automatiquement sur le marché.  
-  - Valoriser les logements bien **desservis** par les transports, même à loyer égal.  
-  - Créer une **grille différenciée** par zone et indicateurs socio-économiques.  
-  - Utiliser le modèle comme **base de négociation** ou de revalorisation équitable.
-    
+**🎯 Objectif :**
+Aider une collectivité à fixer un **loyer équitable** pour des logements publics attribués aux agents municipaux, en tenant compte des **réalités socio-économiques locales**.
+
+**🧠 Problème métier :**
+
+Comment fixer un loyer cohérent avec les revenus des agents, les prix du marché, et les conditions de vie territoriales, sans créer d’inégalités ni surpayer le parc ?
+
+
+**🛠️ Solution apportée (stack 100 % cloud – GCP, SQL, Python, Power BI) :**
+
+* Croisement de données publiques : loyers, revenus fiscaux, sécurité, population, infrastructures
+* Modèle de régression linéaire pour prédire un loyer €/m² selon les caractéristiques de la zone
+* Création d’un **dashboard Power BI interactif** avec carte des loyers par commune
+* Recommandations claires pour une **politique locative juste et transparente**
+
+
+**📊 Résultats clés :**
+
+* Modèle prédictif fiable basé sur des variables sociales et territoriales
+* Identification de zones à **loyer modéré justifié** (présence de services publics, insécurité, revenus faibles)
+* Aide à la **grille de loyers différenciée par zone**, au lieu d’un prix fixe arbitraire
+* Support de négociation ou de révision future basé sur des **indicateurs objectifs**
+
+**📌 Recommandations métier :**
+
+* Indexer le loyer sur le **revenu médian local**, pas uniquement le marché
+* Valoriser les logements bien desservis (transports, services)
+* Créer un **barème évolutif** selon les indicateurs socio-territoriaux
+* Utiliser la modélisation pour justifier et documenter les décisions RH/immobilières
+
+**🧩 Compétences mobilisées :**
+
+* Python (pandas, sklearn – nettoyage, régression)
+* SQL (jointures, préparation sur GCP BigQuery)
+* Modélisation prédictive (régression linéaire)
+* Power BI (cartographie, filtres dynamiques, simulation visuelle)
+* Analyse territoriale (loyer, revenu, sécurité, accessibilité)
+* Lecture politique publique et équité sociale via la data
+* Orchestration de projet data sur une stack cloud complète (GCP)
+
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/un-loyer-juste-pour-les-logements-publics)*
 
 ---
