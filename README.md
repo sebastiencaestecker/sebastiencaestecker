@@ -141,28 +141,50 @@ Comment transformer plus d’utilisateurs d’essai en abonnés payants, et fid�
 ---
 
 ### 📌 [Analyser la performance d’un réseau de coffee shops – Secteur : Retail](https://github.com/sebastiencaestecker/Booster-la-performance-d-un-coffee-shops-avec-l-analyse-comportementale-client/blob/main/README.md)  
-**🎯 Objectif** : Améliorer les ventes, la gestion produit et les horaires d’ouverture grâce à l’analyse multi-sites.  
-**🛠️ Stack** : Power Query, Power BI, DAX, modélisation temporelle 
 
-**💡 Ce que j’ai appris** :  
-- Maîtriser les filtres temporels avancés avec `SAMEPERIODLASTYEAR`, `PARALLELPERIOD`, `DATEADD` pour enrichir les analyses.  
-- Travailler la **granularité temporelle** (jour, heure, semaine).  
-- Concevoir un **dashboard interactif**  
-- Objectifs de rentabilité, de satisfaction client et d’optimisation opérationnelle.
-  
-**✅ Résultats & observations clés** :  
-- CA mensuel : **166K€**, en hausse de **+6,2 %** vs mois précédent.  
-- **73 % des ventes** concentrées en semaine (lundi à vendredi).  
-- **Heures de forte affluence** : 8h–11h, avec un pic le mercredi matin.  
-- Les **produits les plus rentables** : Barista Espresso, Brewed Chai Tea, boissons chaudes personnalisées.  
-- Magasin leader : **Hell’s Kitchen**, +8,3 % de croissance.  
-- Décorrélation entre affluence et CA → opportunité d’optimisation produit/offre.
-**📌 Recommandations métier** :  
-- Optimiser les **plannings d’équipe** sur les créneaux 8h–11h, notamment les mercredis et vendredis.  
-- Mettre en avant les **boissons artisanales premium**, contributrices clés au CA.  
-- Proposer des **offres combo ou happy hours** pour lisser la fréquentation en heures creuses (soirées, week-ends).  
-- Piloter **chaque point de vente individuellement**, avec un suivi simplifié adapté aux managers locaux.  
-- Valoriser l’offre végétale dans la gamme café pour répondre aux nouvelles attentes clients.
+**🎯 Objectif :**
+Améliorer la rentabilité, l’efficacité produit et la satisfaction client dans un réseau de coffee shops multi-sites, en analysant les ventes, l’affluence et les comportements d’achat.
+
+
+**🧠 Problème métier :**
+
+Comment optimiser la gestion commerciale et opérationnelle d’un coffee shop avec plusieurs points de vente ?
+
+
+**🛠️ Solution apportée (Power BI + DAX + Power Query) :**
+
+* Analyse des ventes par jour, heure, catégorie produit et point de vente
+* Cartographie des pics d’affluence vs pics de chiffre d’affaires
+* Comparaison des performances par magasin (Hell’s Kitchen, Astoria, Manhattan)
+* Identification des produits moteurs du CA (ex : Barista Espresso, Chai Tea)
+* Recommandations concrètes sur l’organisation, l’offre produit et les leviers d’optimisation
+
+
+**📊 Résultats clés :**
+
+* CA mensuel : 166 000 € (+6,2 % vs mois précédent)
+* 73 % des ventes concentrées sur la semaine
+* Pic d’affluence 8h–11h, surtout le mercredi
+* Hell’s Kitchen : +8,3 % de croissance
+* Décalage entre affluence et CA ➜ potentiel d’optimisation produit/offre
+
+**📌 Recommandations métier :**
+
+* Optimiser les plannings sur les créneaux critiques (8h–11h)
+* Mettre en avant les boissons artisanales premium
+* Créer des offres ciblées pour lisser la fréquentation hors-pic
+* Piloter chaque point de vente avec un dashboard adapté aux managers
+* Valoriser les produits végétaux dans l’offre
+
+**🧩 Compétences mobilisées :**
+
+* Power BI (visualisation, interactivité, navigation UX)
+* DAX (SAMEPERIODLASTYEAR, PARALLELPERIOD, DATEADD)
+* Power Query (modélisation, transformation de données)
+* Analyse produit et performance multi-magasins
+* Lecture métier : CA, panier, affluence, segmentation temporelle
+* Recommandations orientées retail & satisfaction client
+* Construction de dashboard pour les équipes terrain
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Booster-la-performance-d-un-coffee-shops-avec-l-analyse-comportementale-client/blob/main/README.md)*
 
