@@ -17,7 +17,7 @@ Je n’avais pas tous les outils, mais une certitude :
 C’est ce que je fais aujourd’hui, avec méthode et rigueur.
 
 *  Je comprends les contraintes business parce que je les ai vécues.
-*  Je vais droit au but** : analyse claire, impact mesurable, recommandation concrète.
+*  Je vais droit au but : besoin clair, analyse juste, résultat qui fait bouger les choses.
 *  Je travaille pour/avec les métiers pour prendre la meilleure décision, plus rapidement.
 
 Je suis un analyste qui comprend le métier **avant** la donnée.
