@@ -1,24 +1,27 @@
 # Sébastien Caestecker – Résoudre des problèmes métier avec la data | SQL • Power BI • Python • GCP
 
+## Je ne suis pas arrivé dans la data par amour des chiffres, mais par nécessité opérationnelle.
 
-## 👨‍💼 À propos de moi
+Pendant 10 ans chez Leclerc, j’ai vécu les vraies questions de terrain :
 
-J’ai passé 10 ans dans le retail, chez Leclerc — responsable informatique puis direction magasin.
-Mon rôle : accompagner les équipes, piloter les budgets, analyser les ventes, anticiper les écarts.
-C’est là que j’ai compris : **les bons chiffres changent les décisions**.
+* Pourquoi les ventes ralentissent-elles sur une catégorie clé ? Pourquoi le panier moyen diminue-t-il au drive ?
+* Comment limiter les ruptures en rayon sans surstocker inutilement ?
+* Quel profil de client répond vraiment à une promo, et lequel l’ignore ?
+* Pourquoi un collaborateur pourtant performant envisage-t-il de partir ?
+* Comment fluidifier le parcours de préparation drive pour gagner en vitesse et en efficacité ?
 
-Aujourd’hui je suis **data analyst**.
-J’aide les équipes à poser les bonnes questions, à voir clair dans leurs données, et à agir avec les bons chiffres
+Je n’avais pas toujours les bons outils, mais j’avais une conviction :
+**Quand on pose la bonne question, la donnée finit toujours par donner la réponse.**
 
-> Business first, data ensuite. Mon métier : comprendre, challenger, analyser, recommander.
+C’est ce que je fais aujourd’hui, avec méthode et rigueur.
 
-**📌 Enjeux traités :**
+* 🎯 Je comprends les contraintes business parce que je les ai vécues.
+* 💡 Je vais droit au but** : analyse claire, impact mesurable, recommandation concrète.
+* 🚀 Je travaille pour avec les métiers pour prendre la meilleure décision, plus rapidement.
 
-* Ciblage client & campagnes CRM rentables
-* Churn & onboarding dans un modèle freemium
-* Analyse multi-magasins & logistique dernier km
-* Pricing public équitable (secteur public)
-* Rétention RH & performance des équipes
+Je suis un analyste qui comprend le métier **avant** la donnée.
+Un ex-manager qui parle le langage du terrain.
+Et un **data solver**, capable de transformer un problème en un plan d’action.
 
 
 ## 🛠️ Mes outils du quotidien
