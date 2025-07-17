@@ -1,9 +1,17 @@
 # Sébastien Caestecker - Data Analyst | Analyse métier | SQL • Power BI • Python • GCP • Azure
 
 
-## 👨‍💼 **À Propos de Moi**
+## 👨‍💼 À propos de moi
 
-Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné par l'ensemble des domaines de la data. Fort de 10 années d'expérience dans le secteur de la grande distribution, j'ai eu l'opportunité de travailler sur une variété de projets, couvrant l'analyse des ventes, l'optimisation des processus opérationnels, ainsi que la prédiction des tendances du marché.
+Je m’appelle Sébastien Caestecker. J’ai passé plus de 10 ans à piloter la performance d’un magasin dans la grande distribution, avant de me spécialiser dans l’analyse de données.
+
+Aujourd’hui, je suis **data analyst**, avec une approche très terrain :
+je ne me contente pas de produire des dashboards ou des reportings.
+Je m’efforce de **comprendre les vrais enjeux**, de **challenger les demandes floues**, et de proposer des analyses qui **aident à prendre de meilleures décisions** — plus rapidement et plus concrètement.
+
+Ce qui m’intéresse dans la data, c’est son **impact réel** : aider à mieux cibler, mieux prévoir, mieux piloter.
+
+
 
 ---
 
