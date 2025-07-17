@@ -53,7 +53,7 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 * ROI estimé = +97 %
 
 🧩 Compétences mobilisées :
-*SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
+SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
 
 📌 Projet 100 % SQL – réalisé sur BigQuery avec le dataset public thelook_ecommerce
 
@@ -64,15 +64,13 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 
 ### 📌 [Segmenter sa base client par RFM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
 
-### 🧩 **Segmentation RFM Client – Cibler les bons clients, au bon moment, avec le bon message**
-
-**🎯**Segmentation RFM Client – Cibler les bons clients**
+🎯 Segmentation RFM Client – Cibler les bons clients
 * Aider une équipe CRM à **prioriser ses campagnes marketing** en segmentant les clients selon leur valeur réelle (dataset : `thelook_ecommerce`).
 
-**💡 Problème business :**
+💡 Problème business :
 * Comment concentrer les efforts marketing sur les clients les plus rentables, tout en identifiant les segments à activer, développer ou exclure ?*
 
-**🧠 Solution apportée (100 % SQL sur BigQuery) :**
+🧠 Solution apportée (100 % SQL sur BigQuery) :
 
 * Segmentation RFM complète (Récence, Fréquence, Montant d'achat)
 * Scoring via `PERCENTILE_CONT()` pour découpage précis des quartiles
@@ -80,7 +78,7 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 * Analyse croisée CA / volume / panier moyen par segment
 * Recommandations CRM opérationnelles pour chaque statut
 
-**📊 Résultats :**
+📊 Résultats :
 
 | Segment | % Clients | CA (€)    | Panier moyen | Insight CRM                |
 | ------- | --------- | --------- | ------------ | -------------------------- |
@@ -95,9 +93,9 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 * Segment Silver = fort levier de progression
 * Segment Iron = effort inutile → à désactiver
 
-** 🧩 Compétences mobilisées:**
+🧩 Compétences mobilisées:
 
-* SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM  
+SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM  
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)*
 
