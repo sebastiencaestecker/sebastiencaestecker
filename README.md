@@ -191,27 +191,51 @@ Comment optimiser la gestion commerciale et opérationnelle d’un coffee shop a
 ---
 
 ### 📌 [Optimiser logistique, produit et client pour une pizzeria digitalisée – Secteur : Retail](https://github.com/sebastiencaestecker/Optimiser-l-experience-client-et-la-logistique-dans-la-restauration-rapide/blob/main/README.md)  
-**🎯 Objectif** : Améliorer la rentabilité via l’analyse des commandes, livraisons, préférences clients.  
-**🛠️ Stack** : SQL
 
-**💡 Ce que j’ai appris** :  
-- Approfondir la **modélisation temporelle** dans SQL (temps de commande vs livraison).  
-- Manipuler des fonctions avancées : `STRING_SPLIT`, `STRING_AGG`, `CASE`, `CAST`.  
-- Travailler la **logique métier retail** et formuler des recommandations.   
-- Traduire une base de données en **décisions stratégiques** et visuellement compréhensibles.
-  
-**✅ Résultats & recommandations** :  
-- 64 % des pizzas livrées sont **modifiées** → complexité accrue.  
-- Les personnalisations augmentent le **temps de livraison de +30 %**.  
-- Les **pizzas végétariennes** sont les plus personnalisées.  
-- Forte **disparité entre livreurs** : vitesses moyennes de 10 à 20 km/h.  
-- **Taux de livraison réussie** global : 87 %.  
-**📌 Recommandations métier** :  
-- Réduire la carte aux **recettes les plus commandées** avec le moins de modifications.  
-- Simplifier la personnalisation via des **combinaisons prédéfinies**.  
-- Former les livreurs les plus lents ou les affecter à des **plages horaires creuses**.  
-- Optimiser les **achats d’ingrédients** en fonction des exclusions fréquentes.  
-- Proposer un **bonus logistique** basé sur la performance (vitesse, distance parcourue, ponctualité).  
+**🎯 Objectif :**
+Améliorer la rentabilité des menus, l’efficacité des livraisons et la satisfaction client dans un modèle de restauration rapide digitalisée.
+
+
+**🧠 Problème métier :**
+
+Comment concilier personnalisation des recettes, rapidité de livraison, et rentabilité dans une chaîne de pizzas en ligne ?
+
+
+**🛠️ Solution apportée (100 % SQL) :**
+
+* Analyse des commandes, recettes et comportements d’achat
+* Évaluation de l’impact des personnalisations sur le temps de livraison
+* Étude des performances livreurs (vitesse, réussite, distance parcourue)
+* Identification des ingrédients les plus modifiés/exclus
+* Recommandations concrètes sur l’optimisation produit et logistique
+
+
+**📊 Résultats clés :**
+
+* 64 % des pizzas sont personnalisées → complexité accrue
+* +30 % de temps de livraison pour les commandes modifiées
+* Les pizzas végétariennes sont les plus souvent changées
+* Vitesse des livreurs : de 10 à 20 km/h selon profil
+* Taux de livraison réussie : 87 %
+
+
+**📌 Recommandations métier :**
+
+* Réduire la carte aux recettes les plus commandées et stables
+* Créer des **combinaisons prédéfinies** pour limiter la surcharge de personnalisation
+* Former ou repositionner les livreurs les plus lents
+* Optimiser les achats selon les exclusions fréquentes
+* Mettre en place un **bonus logistique basé sur la performance**
+
+**🧩 Compétences mobilisées :**
+
+* SQL  (jointures, `STRING_AGG`, `STRING_SPLIT`, `CASE`, `CAST`)
+* Modélisation temporelle (commande vs livraison)
+* Analyse logistique (temps, distance, taux de réussite)
+* Lecture business : rentabilité, complexité opérationnelle
+* Analyse produit : préférences, exclusions, personnalisation
+* Formulation de recommandations opérationnelles concrètes
+
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-l-experience-client-et-la-logistique-dans-la-restauration-rapide/blob/main/README.md)*
 
