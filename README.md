@@ -1,4 +1,4 @@
-# Sébastien Caestecker - Data Analyst | Analyse métier | SQL • Power BI • Python • GCP • Azure
+# Sébastien Caestecker – Résoudre des problèmes métier avec la data | SQL • Power BI • Python • GCP
 
 
 ## 👨‍💼 À propos de moi
@@ -8,7 +8,7 @@ Mon rôle : accompagner les équipes, piloter les budgets, analyser les ventes, 
 C’est là que j’ai compris : **les bons chiffres changent les décisions**.
 
 Aujourd’hui je suis **data analyst**.
-J’aide les équipes à poser les bonnes questions et à voir clair dans leurs données
+J’aide les équipes à poser les bonnes questions, à voir clair dans leurs données, et à agir avec les bons chiffres
 
 > Business first, data ensuite. Mon métier : comprendre, challenger, analyser, recommander.
 
@@ -21,13 +21,22 @@ J’aide les équipes à poser les bonnes questions et à voir clair dans leurs 
 * Rétention RH & performance des équipes
 
 
-## 🛠️ Outils : SQL, Power BI (DAX), Python (Pandas,Numpy), GCP, Excel, GitHub, Notion
+## 🛠️ Mes outils du quotidien
+
+- **SQL** (BigQuery, PostgreSQL)
+- **Power BI** (DAX, Power Query)
+- **Python** (Pandas, Numpy)
+- **Cloud** : GCP, Azure
+- **Autres** : Excel avancé, GitHub, Notion
+
 
 🎯 Je cherche un poste de **data analyst ou performance analyst**, dans un environnement où la donnée sert **vraiment à décider** 
 
 ---
 
+
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
+Voici quelques exemples concrets de projets où j’ai utilisé la data pour résoudre des problèmes métier :  
 
 
 
