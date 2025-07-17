@@ -25,11 +25,11 @@ J’aide les équipes à poser les bonnes questions et à voir clair dans leurs 
 
 🎯 Je cherche un poste de **data analyst ou performance analyst**, dans un environnement où la donnée sert **vraiment à décider** 
 
---
+---
 
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 
----
+
 
 ### 📌 [Fidéliser les clients Silver via une campagne ciblée – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)
 
