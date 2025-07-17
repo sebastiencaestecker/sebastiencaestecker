@@ -36,7 +36,7 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 * Les clients Silver sont actifs mais achètent peu dans une catégorie stratégique : Outerwear & Coats (marge >55 %, panier moyen >150 €).
 * Comment les inciter à acheter cette catégorie sous-consommée ?
 
-🧠 Solution data-driven :
+🧠 Solution apportée (100 % SQL sur BigQuery) :
 
 * Analyse SQL croisée RFM x catalogue produits sur BigQuery
 * Identification des clients Silver n’ayant jamais acheté de manteaux
