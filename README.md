@@ -32,7 +32,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 🎯 Ciblage intelligent des clients Silver – RFM & ROI CRM
 Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via une campagne ciblée sur une catégorie à forte marge.
 
-💡 Problème business :
+** 💡 Problème business : **
 * Les clients Silver sont actifs mais achètent peu dans une catégorie stratégique : Outerwear & Coats (marge >55 %, panier moyen >150 €).
 * Comment les inciter à acheter cette catégorie sous-consommée ?
 
