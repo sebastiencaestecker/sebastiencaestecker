@@ -11,14 +11,14 @@ Pendant 10 ans chez Leclerc, j’ai vécu les vraies questions de terrain :
 * Comment optimiser le parcours de préparation drive pour gagner en vitesse et en efficacité ?
 * Comment adapter le budget en cours de route, pour améliorer la marge ?
 
-Je n’avais pas toujours les bons outils, mais j’avais une conviction :
-**Quand on pose la bonne question, la donnée finit toujours par donner la réponse.**
+Je n’avais pas tous les outils, mais une certitude :
+* Bien posée, la bonne question trouve toujours sa réponse dans les données.
 
 C’est ce que je fais aujourd’hui, avec méthode et rigueur.
 
-* 🎯 Je comprends les contraintes business parce que je les ai vécues.
-* 💡 Je vais droit au but** : analyse claire, impact mesurable, recommandation concrète.
-* 🚀 Je travaille pour avec les métiers pour prendre la meilleure décision, plus rapidement.
+*  Je comprends les contraintes business parce que je les ai vécues.
+*  Je vais droit au but** : analyse claire, impact mesurable, recommandation concrète.
+*  Je travaille pour/avec les métiers pour prendre la meilleure décision, plus rapidement.
 
 Je suis un analyste qui comprend le métier **avant** la donnée.
 Un ex-manager qui parle le langage du terrain.
@@ -34,7 +34,7 @@ Et un **data solver**, capable de transformer un problème en un plan d’action
 - **Autres** : Excel, GitHub, Notion
 
 
-🎯 Je cherche un poste de **data analyst ou performance analyst**, dans un environnement où la donnée sert **vraiment à décider** 
+🎯 Je cherche un poste de data analyst ou performance analyst où la donnée permet d’agir, pas juste de rapporter.
 
 ---
 
