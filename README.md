@@ -242,20 +242,50 @@ Comment concilier personnalisation des recettes, rapidité de livraison, et rent
 ---
 
 ### 📌 [Comprendre l’attrition des employés – Secteur : RH ](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)  
-**🎯 Objectif** : Identifier les facteurs de départ des collaborateurs dans une entreprise tech fictive.  
-**🛠️ Stack** : DAX, Power BI, Power Query 
 
-**💡 Ce que j’ai appris** :  
-- Approfondir la **modélisation temporelle** et la gestion des jointures dans Power BI.  
-- Renforcer mes compétences en **DAX** et **Power Query**.  
-- Concevoir un **dashboard orienté métier**, simple, clair pour les RH.
-  
-**✅ Résultats & recommandations** :  
-- Identification de postes à fort turnover : **Sales Reps, RH, Data Scientists**.  
-- Mise en évidence de **facteurs aggravants** : heures supplémentaires, voyages fréquents, faible ancienneté.  
-- Ciblage des **profils en perte de satisfaction**, avant que la situation ne se dégrade.  
-- **Actions de rétention prioritaires** recommandées sur les jeunes talents (< 2 ans d’ancienneté).  
-- Sensibilisation à l’impact de **l’équilibre vie pro/perso** et des déplacements fréquents sur la fidélité.
+**🎯 Objectif :**
+Aider une entreprise tech à **identifier les profils à risque de départ** et à piloter une stratégie de rétention efficace dans un contexte de tension RH.
+
+
+**🧠 Problème métier :**
+
+Quels sont les facteurs qui précèdent un départ volontaire, et comment les RH peuvent-ils agir avant qu’il ne soit trop tard ?
+
+
+**🛠️ Solution apportée (Power BI + DAX + Power Query) :**
+
+* Analyse croisée des données RH : ancienneté, poste, satisfaction, déplacements, salaires
+* Modélisation d’un tableau de bord RH interactif avec 4 pages clés : Overview, Démographie, Performance, Attrition
+* Identification des **profils à risque** (Data Scientists, RH, Sales Reps)
+* Intégration de la dimension **diversité & inclusion** (genre, âge, ethnie vs rémunération)
+* Recommandations concrètes pour réduire l’attrition et mieux cibler les actions RH
+
+
+**📊 Résultats clés :**
+
+* Taux d’attrition global : 16,1 %
+* Profils les plus exposés : faible ancienneté, surcharge de travail, voyages fréquents
+* Départs plus fréquents chez les collaborateurs < 2 ans
+* Mise en évidence de **disparités salariales** selon genre et ethnie
+
+
+**📌 Recommandations métier :**
+
+* Prioriser les actions de rétention sur les jeunes talents
+* Réduire les déplacements pour les profils à risque
+* Détecter les baisses de satisfaction avant qu’elles n’impactent la fidélité
+* Surveiller les écarts salariaux dans une logique d’équité
+
+
+**🧩 Compétences mobilisées :**
+
+* Power BI (dashboard interactif multi-pages)
+* DAX (mesures personnalisées, filtres dynamiques)
+* Power Query (nettoyage, transformation, jointures)
+* Analyse RH (satisfaction, performance, inclusion)
+* Lecture croisée de données démographiques, salariales et comportementales
+* Construction d’outils d’aide à la décision RH
+
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-la-retention-des-talents-grace-la-data/blob/main/README.md)*
 
