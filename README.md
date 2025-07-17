@@ -38,22 +38,22 @@ Comment les inciter à acheter cette catégorie sous-consommée ?
 
 🧠 Solution data-driven :
 
-Analyse SQL croisée RFM x catalogue produits sur BigQuery
-Identification des clients Silver n’ayant jamais acheté de manteaux
-Sélection d’un groupe exposé (1 673 clients) et témoin (147) via RAND()
-Simulation d’une campagne avec 25 € offerts dès 100 € d’achat
-Estimation ROI : x1.97 avant même le lancement
+*Analyse SQL croisée RFM x catalogue produits sur BigQuery
+*Identification des clients Silver n’ayant jamais acheté de manteaux
+*Sélection d’un groupe exposé (1 673 clients) et témoin (147) via RAND()
+*Simulation d’une campagne avec 25 € offerts dès 100 € d’achat
+*Estimation ROI : x1.97 avant même le lancement
 
 📈 Résultats attendus :
 
-+84 acheteurs potentiels
-CA estimé = 11 340 €
-Marge = 6 237 €
-Coût = 2 100 €
-ROI estimé = +97 %
+*+84 acheteurs potentiels
+*CA estimé = 11 340 €
+*Marge = 6 237 €
+*Coût = 2 100 €
+*ROI estimé = +97 %
 
 🧩 Compétences mobilisées :
-SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
+*SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
 
 📌 Projet 100 % SQL – réalisé sur BigQuery avec le dataset public thelook_ecommerce
 
