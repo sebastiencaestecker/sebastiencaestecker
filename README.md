@@ -32,7 +32,7 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 🎯 Ciblage intelligent des clients Silver – RFM & ROI CRM
 Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via une campagne ciblée sur une catégorie à forte marge.
 
-💡 Problème métier :
+💡 Problème business :
 * Les clients Silver sont actifs mais achètent peu dans une catégorie stratégique : Outerwear & Coats (marge >55 %, panier moyen >150 €).
 * Comment les inciter à acheter cette catégorie sous-consommée ?
 
@@ -64,27 +64,44 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 
 ### 📌 [Segmenter sa base client par RFM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
 
-**🎯 Objectif** : Identifier les segments clients les plus rentables et définir des actions marketing adaptées.
+Bien sûr ! Voici la version **optimisée pour ton README GitHub**, dans le style *Data Problem Solver* : claire, percutante, orientée impact business.
 
-**🛠️ Stack** : BigQuery SQL
+---
 
-**💡 Ce que j’ai appris** :
+### 🧩 **Segmentation RFM Client – Cibler les bons clients, au bon moment, avec le bon message**
 
-* Construire une **segmentation RFM** à partir de comportements d’achat.
-* Utiliser `PERCENTILE_CONT()` pour un découpage en **quartiles réels** 
-* Concevoir une analyse SQL, de l’agrégation brute jusqu’au scoring CRM pour faire des **recommandations pour un responsable marketing**.
+**🎯 Objectif :**
+Aider une équipe CRM à **prioriser ses campagnes marketing** en segmentant les clients selon leur valeur réelle (dataset : `thelook_ecommerce`).
 
-**✅ Résultats & recommandations** :
+**💡 Problème business :**
+* Comment concentrer les efforts marketing sur les clients les plus rentables, tout en identifiant les segments à activer, développer ou exclure ?*
 
-* Les **clients Platine et Gold** représentent **38 % de la base** mais génèrent **près de 48 % du chiffre d’affaires**.
-* Le segment **Silver**, majoritaire, est **sous-exploité commercialement**.
-* Le segment **Iron** génère très peu de valeur malgré un coût d’acquisition équivalent.
+**🧠 Solution apportée (100 % SQL sur BigQuery) :**
 
-**📌 Recommandations métier** :
+* Segmentation RFM complète (Récence, Fréquence, Montant d'achat)
+* Scoring via `PERCENTILE_CONT()` pour découpage précis des quartiles
+* Attribution d’un **statut client métier** : Platine, Gold, Silver, Bronze, Iron
+* Analyse croisée CA / volume / panier moyen par segment
+* Recommandations CRM opérationnelles pour chaque statut
 
-* Fidéliser les clients Platine via un **programme VIP ou offres exclusives**.
-* Activer le potentiel du segment Silver par des **promotions à seuil ou du cross-sell**.
-* Exclure ou réactiver les clients Iron avec des campagnes ciblées à faible coût.
+**📊 Résultats :**
+
+| Segment | % Clients | CA (€)    | Panier moyen | Insight CRM                |
+| ------- | --------- | --------- | ------------ | -------------------------- |
+| Platine | 16 %      | 215 543 € | 202 €        | Club VIP, pré-lancement    |
+| Gold    | 21 %      | 200 889 € | 141 €        | Offres personnalisées      |
+| Silver  | 30 %      | 144 117 € | 72 €         | Cross-sell, booster panier |
+| Bronze  | 25 %      | 62 235 €  | 38 €         | Promotions simples         |
+| Iron    | 7 %       | 8 461 €   | 19 €         | Réactivation ou exclusion  |
+
+
+* 48 % du CA généré par 38 % des clients (Platine + Gold) → focus
+* Segment Silver = fort levier de progression
+* Segment Iron = effort inutile → à désactiver
+
+** 🧩 Compétences mobilisées:**
+
+* SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM  
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)*
 
