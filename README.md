@@ -64,14 +64,10 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 
 ### 📌 [Segmenter sa base client par RFM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
 
-Bien sûr ! Voici la version **optimisée pour ton README GitHub**, dans le style *Data Problem Solver* : claire, percutante, orientée impact business.
-
----
-
 ### 🧩 **Segmentation RFM Client – Cibler les bons clients, au bon moment, avec le bon message**
 
-**🎯 Objectif :**
-Aider une équipe CRM à **prioriser ses campagnes marketing** en segmentant les clients selon leur valeur réelle (dataset : `thelook_ecommerce`).
+**🎯**Segmentation RFM Client – Cibler les bons clients**
+* Aider une équipe CRM à **prioriser ses campagnes marketing** en segmentant les clients selon leur valeur réelle (dataset : `thelook_ecommerce`).
 
 **💡 Problème business :**
 * Comment concentrer les efforts marketing sur les clients les plus rentables, tout en identifiant les segments à activer, développer ou exclure ?*
