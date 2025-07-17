@@ -9,6 +9,7 @@ Pendant 10 ans chez Leclerc, j’ai vécu les vraies questions de terrain :
 * Quels types de produits nos clients achètent-ils, et à quel moment ?
 * Pourquoi un collaborateur pourtant performant envisage-t-il de partir ?
 * Comment optimiser le parcours de préparation drive pour gagner en vitesse et en efficacité ?
+* Comment adapter le budget en cours de route, pour améliorer la marge ?
 
 Je n’avais pas toujours les bons outils, mais j’avais une conviction :
 **Quand on pose la bonne question, la donnée finit toujours par donner la réponse.**
