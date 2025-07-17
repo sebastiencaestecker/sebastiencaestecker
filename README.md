@@ -29,30 +29,33 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ### 📌 [Fidéliser les clients Silver via une campagne ciblée – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)
 
-**🎯 Objectif** :
-Renforcer la fidélité et la valeur du segment Silver en activant une catégorie stratégique peu consommée mais très margée : *Outerwear & Coats*.
+🎯 Ciblage intelligent des clients Silver – RFM & ROI CRM
+Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via une campagne ciblée sur une catégorie à forte marge.
 
-**🛠️ Stack :** BigQuery SQL
+💡 Problème métier :
+Les clients Silver sont actifs mais achètent peu dans une catégorie stratégique : Outerwear & Coats (marge >55 %, panier moyen >150 €).
+Comment les inciter à acheter cette catégorie sous-consommée ?
 
-**💡 Ce que j’ai appris :**
+🧠 Solution data-driven :
 
-* Identifier des opportunités d’activation via une **analyse RFM croisée au comportement produit**
-* Utiliser `PERCENTILE_CONT()` pour le scoring RFM et `RAND()` pour créer un **groupe témoin aléatoire (10 %)**
-* Simuler un **ROI de campagne CRM réaliste** en tenant compte du panier, de la marge et du taux de conversion estimé
-* Estimer le taux de conversion en se basant sur les campagnes précédentes
-* Structurer une campagne CRM testable et exploitable par une équipe marketing
+Analyse SQL croisée RFM x catalogue produits sur BigQuery
+Identification des clients Silver n’ayant jamais acheté de manteaux
+Sélection d’un groupe exposé (1 673 clients) et témoin (147) via RAND()
+Simulation d’une campagne avec 25 € offerts dès 100 € d’achat
+Estimation ROI : x1.97 avant même le lancement
 
-**✅ Résultats & recommandations :**
+📈 Résultats attendus :
 
-* 1 820 clients Silver ciblés (actifs mais non acheteurs de manteaux)
-* Offre proposée : **25 € dès 100 €** → ROI estimé : **x1,97**
-* La campagne ciblée (conversion estimée à 5 %) est **3 à 4 fois plus efficace** que la promotion -70 % des soldes (conversion observée : 0,6 %)
++84 acheteurs potentiels
+CA estimé = 11 340 €
+Marge = 6 237 €
+Coût = 2 100 €
+ROI estimé = +97 %
 
-**📌 Recommandations métier :**
+🧩 Compétences mobilisées :
+SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
 
-* Utiliser ce type de logique pour créer des **campagnes ciblées mesurables**
-* Croiser le scoring RFM avec les **marges et paniers par catégorie** pour calibrer la générosité
-* Ciblage via un pipeline SQL + BIGQUERY
+📌 Projet 100 % SQL – réalisé sur BigQuery avec le dataset public thelook_ecommerce
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)*
 
