@@ -12,7 +12,7 @@ Pendant 10 ans chez Leclerc, j’ai vécu les vraies questions de terrain :
 * Comment adapter le budget en cours de route, pour améliorer la marge ?
 
 Je n’avais pas tous les outils, mais une certitude :
-* Bien posée, la bonne question trouve toujours sa réponse dans les données.
+* Si tu veux une réponse utile, commence par poser la bonne question. Ensuite, les données te diront quoi faire
 
 C’est ce que je fais aujourd’hui, avec méthode et rigueur.
 
