@@ -6,9 +6,9 @@ Pendant 10 ans chez Leclerc, j’ai vécu les vraies questions de terrain :
 
 * Pourquoi les ventes ralentissent-elles sur une catégorie clé ? Pourquoi le panier moyen diminue-t-il au drive ?
 * Comment limiter les ruptures en rayon sans surstocker inutilement ?
-* Quel profil de client répond vraiment à une promo, et lequel l’ignore ?
+* Quels types de produits nos clients achètent-ils, et à quel moment ?
 * Pourquoi un collaborateur pourtant performant envisage-t-il de partir ?
-* Comment fluidifier le parcours de préparation drive pour gagner en vitesse et en efficacité ?
+* Comment optimiser le parcours de préparation drive pour gagner en vitesse et en efficacité ?
 
 Je n’avais pas toujours les bons outils, mais j’avais une conviction :
 **Quand on pose la bonne question, la donnée finit toujours par donner la réponse.**
