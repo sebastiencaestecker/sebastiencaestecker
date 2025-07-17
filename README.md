@@ -101,11 +101,6 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 ---
 
 ### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
-Bien sûr, voici le résumé complet pour ta page principale GitHub, **avec la section `🧩 Compétences mobilisées` ajoutée à la fin**, dans le même ton professionnel et orienté résolution de problème :
-
----
-
-### 💡 **Optimisation de la conversion freemium et réduction du churn – Cas Foodie-Fi**
 
 🎯 Objectif :
 Améliorer la conversion post-essai gratuit et réduire le churn dans un modèle freemium SaaS, en identifiant les parcours à risque et les plans à forte rétention.
