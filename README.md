@@ -101,23 +101,45 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 ---
 
 ### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
-**🎯 Objectif** : Comprendre les parcours utilisateurs pour améliorer la conversion des abonnés.  
-**🛠️ Stack** : SQL 
+Bien sûr, voici le résumé complet pour ta page principale GitHub, **avec la section `🧩 Compétences mobilisées` ajoutée à la fin**, dans le même ton professionnel et orienté résolution de problème :
 
-**💡 Ce que j’ai appris** :  
-- Approfondir la **modélisation temporelle** des parcours utilisateurs.  
-- Manipuler des **fonctions analytiques SQL** : `RANK()`, `ROW_NUMBER()` pour créer des séquences comportementales.  
-- Penser l’analyse sous l’angle de la **valeur client** et de la **durabilité du modèle économique**.  
-- Comprendre les enjeux clés du business : conversion, rétention, lifetime value.
-  
-**✅ Résultats & recommandations** :  
-- **19,4 %** des utilisateurs annulent après l’essai gratuit, sans tester de plan payant.  
-- Les clients qui souscrivent un **plan annuel** sont les plus fidèles.  
-- Le **churn est plus élevé** chez les utilisateurs peu actifs durant la période d’essai.
-**📌 Recommandations métier** :  
-- Proposer une **offre promotionnelle ciblée** à la fin de l’essai gratuit.  
-- Mettre en place un **email de réassurance** personnalisé avant la fin de l’essai.  
-- Détecter les **signaux faibles de churn anticipé** : faible fréquence d’usage, sessions trop courtes, inactivité.  
+---
+
+### 💡 **Optimisation de la conversion freemium et réduction du churn – Cas Foodie-Fi**
+
+🎯 Objectif :
+Améliorer la conversion post-essai gratuit et réduire le churn dans un modèle freemium SaaS, en identifiant les parcours à risque et les plans à forte rétention.
+
+
+🧠 Problème métier :
+
+Comment transformer plus d’utilisateurs d’essai en abonnés payants, et fidéliser durablement dans un contexte d’abandon précoce ?
+
+
+🛠️ Solution apportée (100 % SQL) :
+
+* Reconstitution complète des parcours clients via fonctions analytiques (`RANK`, `ROW_NUMBER`)
+* Création de KPIs : taux de churn, délai avant souscription, taux de conversion par plan
+* Segmentation des clients selon leur comportement d’usage
+* Identification des profils à risque (essai non actif, churn immédiat)
+
+
+📊 Résultats clés :
+
+* 19,4 % des utilisateurs quittent sans tester de plan payant
+* Le **plan annuel** génère la **meilleure rétention**
+* Le churn est très élevé chez les utilisateurs inactifs pendant l’essai
+
+
+🧩 Compétences mobilisées :
+
+* SQL  (RANK, ROW\_NUMBER, modélisation temporelle)
+* Analyse de churn et de conversion freemium
+* Reconstruction de parcours clients
+* Création de KPIs (délai de souscription, taux de churn, plan performance)
+* Segmentation comportementale
+* Lecture business SaaS : rétention, monétisation, LTV
+* Recommandations marketing
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)*
 
