@@ -93,9 +93,7 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 * Segment Silver = fort levier de progression
 * Segment Iron = effort inutile → à désactiver
 
-🧩 Compétences mobilisées:
-
-SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM  
+🧩 Compétences mobilisées: SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM  
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)*
 
