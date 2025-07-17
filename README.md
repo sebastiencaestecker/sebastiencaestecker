@@ -29,14 +29,14 @@ Bonjour ! Je suis Sébastien Caestecker, un Data Analyst de 32 ans, passionné p
 
 ### 📌 [Fidéliser les clients Silver via une campagne ciblée – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)
 
-🎯 Ciblage intelligent des clients Silver – RFM & ROI CRM
+**🎯 Ciblage intelligent des clients Silver – RFM & ROI CRM**
 Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via une campagne ciblée sur une catégorie à forte marge.
 
-** 💡 Problème business : **
+**💡 Problème business :**
 * Les clients Silver sont actifs mais achètent peu dans une catégorie stratégique : Outerwear & Coats (marge >55 %, panier moyen >150 €).
 * Comment les inciter à acheter cette catégorie sous-consommée ?
 
-🧠 Solution apportée (100 % SQL sur BigQuery) :
+**🧠 Solution apportée (100 % SQL sur BigQuery) :**
 
 * Analyse SQL croisée RFM x catalogue produits sur BigQuery
 * Identification des clients Silver n’ayant jamais acheté de manteaux
@@ -44,7 +44,7 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 * Simulation d’une campagne avec 25 € offerts dès 100 € d’achat
 * Estimation ROI : x1.97 avant même le lancement
 
-📈 Résultats attendus :
+**📈 Résultats attendus :**
 
 * +84 acheteurs potentiels
 * CA estimé = 11 340 €
@@ -52,7 +52,7 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 * Coût = 2 100 €
 * ROI estimé = +97 %
 
-🧩 Compétences mobilisées :
+**🧩 Compétences mobilisées :**
 SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
 
 📌 Projet 100 % SQL – réalisé sur BigQuery avec le dataset public thelook_ecommerce
@@ -64,13 +64,13 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 
 ### 📌 [Segmenter sa base client par RFM – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)
 
-🎯 Segmentation RFM Client – Cibler les bons clients
+**🎯 Segmentation RFM Client – Cibler les bons clients**
 * Aider une équipe CRM à **prioriser ses campagnes marketing** en segmentant les clients selon leur valeur réelle (dataset : `thelook_ecommerce`).
 
-💡 Problème business :
+**💡 Problème business :**
 * Comment concentrer les efforts marketing sur les clients les plus rentables, tout en identifiant les segments à activer, développer ou exclure ?*
 
-🧠 Solution apportée (100 % SQL sur BigQuery) :
+**🧠 Solution apportée (100 % SQL sur BigQuery) :**
 
 * Segmentation RFM complète (Récence, Fréquence, Montant d'achat)
 * Scoring via `PERCENTILE_CONT()` pour découpage précis des quartiles
@@ -78,7 +78,7 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 * Analyse croisée CA / volume / panier moyen par segment
 * Recommandations CRM opérationnelles pour chaque statut
 
-📊 Résultats :
+**📊 Résultats :**
 
 | Segment | % Clients | CA (€)    | Panier moyen | Insight CRM                |
 | ------- | --------- | --------- | ------------ | -------------------------- |
@@ -93,7 +93,7 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 * Segment Silver = fort levier de progression
 * Segment Iron = effort inutile → à désactiver
 
-🧩 Compétences mobilisées: SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM  
+**🧩 Compétences mobilisées:** SQL(GROUP BY, DATE_DIFF, PERCENTILE_CONT) · Segmentation RFM · BigQuery · performanace business · recommandation CRM
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Segmentation_RFM_SQL)*
 
@@ -102,16 +102,16 @@ SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulatio
 
 ### 📌 [Optimiser l’onboarding dans un modèle freemium – Secteur : SaaS / e-commerce](https://github.com/sebastiencaestecker/Optimiser-l-onboarding-client-pour-maximiser-les-conversions-dans-une-offre-freemium)  
 
-🎯 Objectif :
+**🎯 Objectif :**
 Améliorer la conversion post-essai gratuit et réduire le churn dans un modèle freemium SaaS, en identifiant les parcours à risque et les plans à forte rétention.
 
 
-🧠 Problème métier :
+**🧠 Problème métier :**
 
 Comment transformer plus d’utilisateurs d’essai en abonnés payants, et fidéliser durablement dans un contexte d’abandon précoce ?
 
 
-🛠️ Solution apportée (100 % SQL) :
+**🛠️ Solution apportée (100 % SQL) :**
 
 * Reconstitution complète des parcours clients via fonctions analytiques (`RANK`, `ROW_NUMBER`)
 * Création de KPIs : taux de churn, délai avant souscription, taux de conversion par plan
@@ -119,14 +119,14 @@ Comment transformer plus d’utilisateurs d’essai en abonnés payants, et fid�
 * Identification des profils à risque (essai non actif, churn immédiat)
 
 
-📊 Résultats clés :
+**📊 Résultats clés :**
 
 * 19,4 % des utilisateurs quittent sans tester de plan payant
 * Le **plan annuel** génère la **meilleure rétention**
 * Le churn est très élevé chez les utilisateurs inactifs pendant l’essai
 
 
-🧩 Compétences mobilisées :
+**🧩 Compétences mobilisées :**
 
 * SQL  (RANK, ROW\_NUMBER, modélisation temporelle)
 * Analyse de churn et de conversion freemium
