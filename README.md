@@ -3,33 +3,29 @@
 
 ## 👨‍💼 À propos de moi
 
-Je m’appelle Sébastien Caestecker. J’ai passé plus de 10 ans à piloter la performance d’un magasin dans la grande distribution, avant de me spécialiser dans l’analyse de données.
+J’ai passé 10 ans dans le retail, chez Leclerc — responsable informatique puis direction magasin.
+Mon rôle : accompagner les équipes, piloter les budgets, analyser les ventes, anticiper les écarts.
+C’est là que j’ai compris : **les bons chiffres changent les décisions**.
 
-Aujourd’hui, je suis **data analyst**, avec une approche très terrain :
-je ne me contente pas de produire des dashboards ou des reportings.
-Je m’efforce de **comprendre les vrais enjeux**, de **challenger les demandes floues**, et de proposer des analyses qui **aident à prendre de meilleures décisions** — plus rapidement et plus concrètement.
+Aujourd’hui je suis **data analyst**.
+J’aide les équipes à poser les bonnes questions et à voir clair dans leurs données
 
-Ce qui m’intéresse dans la data, c’est son **impact réel** : aider à mieux cibler, mieux prévoir, mieux piloter.
+> Business first, data ensuite. Mon métier : comprendre, challenger, analyser, recommander.
 
+**📌 Enjeux traités :**
 
-
----
-
-## 🎯 **Compétences Clés**
-
-| Domaine                   | Outils                                                                                   |
-|---------------------------|------------------------------------------------------------------------------------------|
-| **Exploration & Analyse** | SQL (PostgreSQL, BigQuery, SQL Server), Python (Pandas, Numpy, Matplotlib), Excel        |
-| **Data Viz**              | Power BI, Tableau                                                                        |
-| **Cloud**                 | Google Cloud Platform (BigQuery, Cloud Storage, Notebooks) , Azure                       |
-| **Prédiction**            | Python (scikit-learn)                                                                    |
-| **API & Web Scraping**    | Python (requests, BeautifulSoup, Scrapy)                                                 |
-| **Documentation**         | Notion, Markdown, GitHub                                                                 |
+* Ciblage client & campagnes CRM rentables
+* Churn & onboarding dans un modèle freemium
+* Analyse multi-magasins & logistique dernier km
+* Pricing public équitable (secteur public)
+* Rétention RH & performance des équipes
 
 
+## 🛠️ Outils : SQL, Power BI (DAX), Python (Pandas,Numpy), GCP, Excel, GitHub, Notion
 
+🎯 Je cherche un poste de **data analyst ou performance analyst**, dans un environnement où la donnée sert **vraiment à décider** 
 
-
+--
 
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 
