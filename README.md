@@ -46,11 +46,11 @@ Objectif : Booster la fidélité et la valeur du segment Silver (RFM = 6/7) via 
 
 📈 Résultats attendus :
 
-*+84 acheteurs potentiels
-*CA estimé = 11 340 €
-*Marge = 6 237 €
-*Coût = 2 100 €
-*ROI estimé = +97 %
+* +84 acheteurs potentiels
+* CA estimé = 11 340 €
+* Marge = 6 237 €
+* Coût = 2 100 €
+* ROI estimé = +97 %
 
 🧩 Compétences mobilisées :
 *SQL avancé · Segmentation RFM · Construction de groupes témoins · Simulation ROI · Analyse produit x client
