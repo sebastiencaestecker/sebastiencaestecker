@@ -1,28 +1,20 @@
 # Sébastien Caestecker – Résoudre des problèmes métier avec la data | SQL • Power BI • Python • GCP
 
-## Je ne suis pas arrivé dans la data par amour des chiffres, mais par nécessité opérationnelle.
+’ai bossé plus de 10 ans dans le retail, dont 3 ans comme directeur adjoint.
+Dès le début, j’ai toujours voulu aider les équipes terrain à mieux performer.
 
-Pendant 10 ans chez Leclerc, j’ai vécu les vraies questions de terrain :
+Je suis devenu analyste pour leur apporter des solutions, basées sur les chiffres et la donnée :
+🔸 Marge en baisse ? J’analyse les produits, les promos, les prix.
+🔸 Ruptures en rayon ? Je croise stock, ventes et démarque.
+🔸 Campagnes qui ne marchent pas ? Je segmente, je mesure, j’ajuste.
+🔸 Budget pas suivi ? J’analyse les écarts et je construis un suivi simple pour corriger le tir.
+🔸 Les équipes ne comprennent plus les chiffres ? Je crée des indicateurs clairs et je les forme à s’en servir.
 
-* Pourquoi les ventes ralentissent-elles sur une catégorie clé ? Pourquoi le panier moyen diminue-t-il au drive ?
-* Comment limiter les ruptures en rayon sans surstocker inutilement ?
-* Quels types de produits nos clients achètent-ils, et à quel moment ?
-* Pourquoi un collaborateur pourtant performant envisage-t-il de partir ?
-* Comment optimiser le parcours de préparation drive pour gagner en vitesse et en efficacité ?
-* Comment adapter le budget en cours de route, pour améliorer la marge ?
+Je bossais déjà pas mal sur Excel, mais je voulais aller plus loin :
+automatiser avec Python, croiser plusieurs sources avec SQL, créer des tableaux de bord clairs et efficaces avec Power BI.
+Alors je me suis formé à ces outils, pour gagner du temps et en fiabilité.
 
-Je n’avais pas tous les outils, mais une certitude :
-* Si tu veux une réponse utile, commence par poser la bonne question. Ensuite, les données te diront quoi faire
-
-C’est ce que je fais aujourd’hui, avec méthode et rigueur.
-
-*  Je comprends les contraintes business parce que je les ai vécues.
-*  Je vais droit au but : besoin clair, analyse juste, résultat qui fait bouger les choses.
-*  Je travaille pour/avec les métiers pour prendre la meilleure décision, plus rapidement.
-
-Je suis un analyste qui comprend le métier **avant** la donnée.
-Un ex-manager qui parle le langage du terrain.
-Et un **data solver**, capable de transformer un problème en un plan d’action.
+Aujourd’hui, je cherche un poste où je peux mettre à profit mes compétences métier et techniques pour améliorer la performance (marge, stock, CA…) et accompagner les équipes métier dans l’analyse et l’action
 
 **📌 Enjeux traités :**
 
