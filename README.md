@@ -1,14 +1,14 @@
 # Sébastien Caestecker – Résoudre des problèmes métier avec la data | SQL • Power BI • Python • GCP
 
-’ai bossé plus de 10 ans dans le retail, dont 3 ans comme directeur adjoint.
+j’ai bossé plus de 10 ans dans le retail, dont 3 ans comme directeur adjoint.
 Dès le début, j’ai toujours voulu aider les équipes terrain à mieux performer.
 
 Je suis devenu analyste pour leur apporter des solutions, basées sur les chiffres et la donnée :
-🔸 Marge en baisse ? J’analyse les produits, les promos, les prix.
-🔸 Ruptures en rayon ? Je croise stock, ventes et démarque.
-🔸 Campagnes qui ne marchent pas ? Je segmente, je mesure, j’ajuste.
-🔸 Budget pas suivi ? J’analyse les écarts et je construis un suivi simple pour corriger le tir.
-🔸 Les équipes ne comprennent plus les chiffres ? Je crée des indicateurs clairs et je les forme à s’en servir.
+* Marge en baisse ? J’analyse les produits, les promos, les prix.
+* Ruptures en rayon ? Je croise stock, ventes et démarque.
+* Campagnes qui ne marchent pas ? Je segmente, je mesure, j’ajuste.
+* Budget pas suivi ? J’analyse les écarts et je construis un suivi simple pour corriger le tir.
+* Les équipes ne comprennent plus les chiffres ? Je crée des indicateurs clairs et je les forme à s’en servir.
 
 Je bossais déjà pas mal sur Excel, mais je voulais aller plus loin :
 automatiser avec Python, croiser plusieurs sources avec SQL, créer des tableaux de bord clairs et efficaces avec Power BI.
