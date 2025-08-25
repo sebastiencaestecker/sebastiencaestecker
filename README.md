@@ -79,6 +79,7 @@ Risques : ruptures en décembre, sous-effectif (+4 pâtissiers manquants), ou su
 📌 Projet 100 % Excel (FORECAST, RSQ, AVERAGE, MIN, MAX) – reproductible en Python (pandas, numpy).
 
 ➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Forecast-patisserie)*
+
 ---
 
 
