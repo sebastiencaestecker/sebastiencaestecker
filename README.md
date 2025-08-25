@@ -41,7 +41,47 @@ Aujourd’hui, je cherche un poste où je peux mettre à profit mes compétences
 ## 🌍 [Projets data orientés métier](https://github.com/sebastiencaestecker?tab=repositories)
 Voici quelques exemples concrets de projets où j’ai utilisé la data pour résoudre des problèmes métier :  
 
+### 📌 [Prévoir ventes, effectifs et achats chocolat – Secteur : Retail alimentaire](https://github.com/sebastiencaestecker/Forecast-patisserie)
+**🎯 Forecast hybride & plan opérationnel RH + Supply**
 
+Objectif : Anticiper l’année N+1 pour un réseau de 8 boutiques → prévoir ventes, besoins en pâtissiers et achats de chocolat.
+
+**💡 Problème business :**
+
+Historique irrégulier (2 à 7 ans par boutique).
+
+Risques : ruptures en décembre, sous-effectif (+4 pâtissiers manquants), ou surstock chocolat immobilisant la trésorerie.
+
+**🧠 Solution apportée (Excel avancé & contrôle de gestion) :**
+
+* Analyse des progressions annuelles réseau → cycle de vie (hypercroissance, stabilisation, maturité).
+* Forecast hybride :
+* Régression linéaire (FORECAST + R²) sur années 4–7.
+
+* Taux moyen réseau pour séries courtes / hypercroissance.
+
+* Phasing mensuel basé sur la saisonnalité (décembre = 11,36 % de l’annuel).
+
+* Traduction en kg chocolat / heures / pâtissiers nécessaires.
+
+* Plan MRP chocolat (stock mini 300 kg, lot 500 kg, délai 1 mois).
+
+**📈 Résultats :**
+
+* Prévision réseau N+1 ≈ 870 000 unités.
+
+* Décembre : besoin de 14 pâtissiers (vs 10 disponibles).
+
+* Plan MRP = zéro rupture, zéro surstock.
+
+**🧩 Compétences mobilisées : Prévisions hybrides (régression & taux moyen) · Analyse de cycle de vie · Phasing saisonnier · Contrôle RH & supply · Logique MRP.**
+
+📌 Projet 100 % Excel (FORECAST, RSQ, AVERAGE, MIN, MAX) – reproductible en Python (pandas, numpy).
+
+
+---
+
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Forecast-patisserie)*
 
 ### 📌 [Fidéliser les clients Silver via une campagne ciblée – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)
 
