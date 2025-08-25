@@ -78,10 +78,10 @@ Risques : ruptures en décembre, sous-effectif (+4 pâtissiers manquants), ou su
 
 📌 Projet 100 % Excel (FORECAST, RSQ, AVERAGE, MIN, MAX) – reproductible en Python (pandas, numpy).
 
-
+➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Forecast-patisserie)*
 ---
 
-➡️ *[Voir le projet](https://github.com/sebastiencaestecker/Forecast-patisserie)*
+
 
 ### 📌 [Fidéliser les clients Silver via une campagne ciblée – Secteur : Retail / e-commerce](https://github.com/sebastiencaestecker/Ciblage_campagne_pour_booster_vente_saisonniere)
 
